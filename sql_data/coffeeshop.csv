@@ -1,0 +1,947 @@
+Country;Region;Owner;Variety;Number of bags;Bag weight;Aroma;Acidity;Sweetness;Total score;Price
+Guatemala;nuevo oriente;juan luis alvarado romero;Pacas;275;200;7.5;7.83;10;83.25;3.712578925
+Nicaragua;matagalpa;chris finch;Caturra;275;200;7.33;7;10;80.92;3.541668775
+United States;kona;eileen koyanagi;Other;9;200;7.08;6.67;10;77.25;4.445682859
+United States;kona;eileen koyanagi;Other;11;200;7.5;7.25;9.33;78.75;3.730108167
+United States;kona;kona pacific farmers cooperative;Arusha;3;200;7.08;7.25;10;80.75;4.201230706
+Guatemala;nuevo oriente;juan luis alvarado romero;Catuai;275;200;7.5;7.67;1.33;59.83;3.89353449
+Mexico;juchique de ferrer;juan carlos garcia lopez;Bourbon;12;200;7.08;7.42;10;68.33;3.787318446
+Honduras;marcala;cadexsa;Catuai;275;200;7;6.67;8;69.17;3.512793359
+Honduras;marcala;cadexsa;Catuai;275;200;7;6.5;8;69.17;3.744237043
+Honduras;marcala;cadexsa;Catuai;275;200;6.67;6.67;8;69.33;4.249496952
+Mexico;veracruz;ricardo aaron sampieri marini;Bourbon;25;200;6.5;7.17;10;71;4.024156015
+Mexico;tlatlauquitepec;jose armando norberto borzani lemini;Mundo Novo;10;200;6.92;6.92;10;71.08;3.934463251
+Costa Rica;occidental;santa laura exportadora de cafe s.l.e.c. s.a.;Caturra;250;200;6.33;6.83;10;71.75;4.403998708
+Mexico;coatepec;eugene holman pew;Typica;20;200;7.67;7.58;10;73.83;3.921284986
+Mexico;xalapa;myrna roxana galvez gonzalez;Typica;100;200;6.92;7.33;10;74;3.870295206
+Mexico;chocaman, veracruz;jorge octavio escamilla prado;Typica;20;200;7;6.83;10;74.33;4.009148414
+Mexico;chiapas;nestor mendez gomez;Typica;275;200;7.08;7.5;10;74.67;3.980345024
+Guatemala;oriente;juan luis alvarado romero;Bourbon;250;200;6.75;7;10;74.75;4.318697121
+Guatemala;oriente;juan luis alvarado romero;Bourbon;250;200;6.75;7.17;10;74.75;3.680406017
+Mexico;coatepec;pablo enrique martinez gama;Typica;20;200;7.33;7.25;10;74.83;3.897548151
+Mexico;zaragoza itundujia;israel eduardo paz garcia;Typica;14;200;7.08;7;10;74.92;4.420144338
+Mexico;menglian;grupo juvenil magtayani, ac;Typica;43;200;7;6.92;10;75;3.505204112
+Mexico;ocosingo;francisco hernandez lorenzo;Mundo Novo;100;200;7.17;6.83;10;75.17;3.927726487
+Mexico;nan;montegrande;Other;36;200;7.25;7.08;10;75.17;4.277606536
+Mexico;huautla de jimenez;martin jimenez casiano;Typica;18;200;7.17;7.17;10;75.17;3.637986018
+Guatemala;oriente;juan luis alvarado romero;Bourbon;250;200;7.92;7.58;8;75.58;3.420509254
+Guatemala;oriente;juan luis alvarado romero;Bourbon;250;200;6.67;7;10;75.58;3.444798103
+Mexico;zaragoza itundujia;israel eduardo paz garcia;Typica;11;200;7.42;7.08;10;76.17;4.088903457
+Mexico;coatepec;homero antonio de anda andrade;Typica;10;200;7.17;7;10;76.42;3.887046873
+Mexico;motozintla, chiapas;alejandro garcia palacios;Other;10;200;7.08;7.25;10;77.17;4.096970606
+United States;kwanza norte province, angola;james moore;Other;1;200;7.33;7.42;7.42;77.17;4.221474047
+Mexico;zaragoza itundujia;israel eduardo paz garcia;Typica;10;200;7.33;7;10;77.33;3.829369894
+Guatemala;oriente;juan luis alvarado romero;Bourbon;250;200;7.08;7;10;77.42;3.930985509
+Mexico;coatepec;stephany escamilla femat;Typica;23;200;7.17;6.75;10;77.5;4.492578999
+Guatemala;oriente;juan luis alvarado romero;Bourbon;250;200;7;7.17;10;77.83;4.441706628
+Mexico;petatlan;gustavo abarca solis;Typica;50;200;7.42;7;10;77.92;4.31575414
+Guatemala;oriente;juan luis alvarado romero;Bourbon;250;200;7.17;7.08;10;77.92;3.848236208
+Costa Rica;occidental;santa laura exportadora de cafe s.l.e.c. s.a.;Caturra;250;200;7.5;7;10;77.92;4.128128497
+Mexico;motozintla, chiapas;alejandro garcia palacios;Other;10;200;7.25;7;8;78;4.479348799
+Mexico;cordoba;gustavo amieva gonzalez;Typica;320;200;7.08;7.25;10;78.08;3.526008542
+Indonesia;ijen;sanjava coffee;Java;2;200;6.92;6.92;10;78.17;3.677301556
+Guatemala;oriente;juan luis alvarado romero;Bourbon;250;200;7.17;7.17;10;78.33;4.107668582
+Guatemala;oriente;juan luis alvarado romero;Bourbon;250;200;7.17;7.25;10;78.33;4.071053116
+Mexico;zaragoza itundujia;israel eduardo paz garcia;Typica;10;200;7.58;7.17;10;78.42;4.45227338
+Mexico;los angeles;francisco ruiz nunez;Caturra;20;200;7.25;6.83;10;78.5;3.857151651
+Mexico;tapachula;alfredo bojalil;Typica;250;200;7;7.33;10;78.58;3.704930276
+Mexico;cofradia de suchitlan;organizaciones de productores de cafe colimense;Typica;50;200;7.92;7.92;10;78.58;3.631101107
+Mexico;yecuatla;juan garcia hernandez;Caturra;20;200;6.92;7.25;10;78.67;3.58096539
+Mexico;veracruz;octavio augusto diaz trejo;Typica;20;200;7.25;7;10;78.75;4.361478921
+Mexico;veracruz;damaso martinez perez;Typica;35;200;7.25;7.25;10;78.75;3.662414927
+Mexico;ohuapan, tlaltetela;productores de especialidad emiliano zapeata, spr.;Bourbon;10;200;7.67;7.33;8.67;78.75;4.193333719
+Nicaragua;jalapa;exportadora atlantic, s.a.;Caturra;1;200;7.17;7;10;78.83;3.747869172
+Mexico;zaragoza itundujia;israel eduardo paz garcia;Typica;14;200;7.5;7.08;10;78.92;4.037706978
+Mexico;la concordia, chiapas;alfredo bojalil;Typica;250;200;7.33;7.08;10;78.92;4.233577432
+Mexico;zaragoza itundujia;israel eduardo paz garcia;Typica;16;200;7.5;7.5;10;79;3.635475292
+Mexico;zaragoza itundujia;israel eduardo paz garcia;Typica;13;200;7.33;7.25;10;79.08;4.184032652
+Mexico;talpa de allende;balbino ramirez flores;Typica;10;200;7.17;7.17;10;79.08;3.601464553
+Mexico;zaragoza itundujia;israel eduardo paz garcia;Typica;10;200;7.25;7.08;10;79.17;3.742077578
+Mexico;yajalon;julio cesar robles flores;Typica;53;200;7.17;7.08;10;79.17;4.212265494
+Mexico;veracruz;marco virgilio ramirez teliz;Bourbon;12;200;7;7.17;10;79.25;3.638361233
+Mexico;zentla;eric jesus cordoba arroyo;Typica;30;200;7;7.33;10;79.33;3.787464855
+Mexico;zentla;eric jesus cordoba arroyo;Typica;50;200;7.42;7.17;10;79.33;4.074726626
+Guatemala;oriente;juan luis alvarado romero;Bourbon;250;200;7.17;7.25;10;79.33;4.304401942
+United States;chikmagalur;andrew hetzel;Arusha;100;200;7.92;7.42;7.58;79.33;4.340505417
+Cote d?Ivoire;cnra station of divo;rre kunene;Other;2;200;7.42;7;10;79.33;3.787905428
+Mexico;la concordia;armando luis pohlenz martinez;Caturra;250;200;7.25;7.25;10;79.5;3.528951862
+Mexico;coatepec, coatepec;mario jose fernandez;Typica;127;200;7.25;7.25;10;79.5;3.726204123
+Mexico;tepetzingo;obed rendon ponce;Typica;50;200;7.08;7.33;10;79.58;3.501054207
+Mexico;la concordia;armando luis pohlenz martinez;Caturra;250;200;7.25;7.33;10;79.58;3.619404625
+Mexico;tenango de doria, hidalgo;saul m. hernandez ramirez;Caturra;10;200;7.33;6.75;10;79.67;3.850747206
+Mexico;coatepec, coatepec;alfredo bojalil;Mundo Novo;253;200;6.92;7.17;10;79.67;4.227918246
+Thailand;thailand;doi tung development project;Other;1;200;6.92;7.42;10;79.67;3.474161524
+Mexico;la concordia, chiapas;fredy gordillo reyes;Typica;310;200;7.42;7.58;10;79.67;3.470002376
+Mexico;zaragoza itundujia;israel eduardo paz garcia;Bourbon;12;200;7.25;7.08;10;79.75;4.374887888
+Mexico;pochutla;alfredo bojalil;Typica;250;200;7.33;7.08;10;79.75;3.992126121
+Mexico;tuxtla gutierrez;montegrande;Typica;36;200;7.25;7.08;10;79.75;4.028035471
+Thailand;thailand;doi tung development project;Other;1;200;7.25;7.5;10;79.75;3.838435442
+Mexico;la concordia, chiapas;fredy gordillo reyes;Typica;310;200;7.58;7;10;79.75;3.835007125
+Mexico;chiapas;leonides de la cruz lopez;Bourbon;275;200;7.58;7.58;10;79.75;4.428930645
+Mexico;chiapas;calixto guillen vazquez;Bourbon;380;200;7.25;7.17;10;79.75;4.252495139
+Mexico;veracruz;sergio de la vequia bernardi;Typica;250;200;7.17;7.25;10;79.83;3.695733774
+Mexico;motozintla, chiapas;alejandro garcia palacios;Other;10;200;7.17;7.25;10;79.92;4.378437658
+Mexico;veracruz;christina dusing;Bourbon;82;200;7.5;7.17;10;79.92;4.003453903
+Mexico;jaltenango;montegrande;Catuai;250;200;7.17;7.08;10;79.92;4.354985088
+Mexico;coatepec;pablo enrique martinez gama;Typica;100;200;7.33;7.42;10;79.92;3.703543988
+Mexico;chiapas;calixto guillen vazquez;Bourbon;400;200;7.33;7.33;10;79.92;3.684532546
+Thailand;thailand;doi tung development project;Other;2;200;7.33;7.42;10;80;3.732149785
+Mexico;coatepec;pablo enrique martinez gama;Typica;20;200;7.25;7.17;10;80;3.570890131
+Mexico;san miguel del puerto;semiramis casas velazquez;Other;256;200;7.08;7.33;10;80;4.080157165
+Mexico;zaragoza itundujia;israel eduardo paz garcia;Typica;13;200;7.33;7.08;10;80.08;3.741789567
+Mexico;escuitla;federico pacheco perez;Typica;10;200;7.25;7.17;10;80.08;3.597781439
+Mexico;zaragoza itundujia;israel eduardo paz garcia;Typica;15;200;7.58;7.5;10;80.17;4.442545221
+Mexico;veracruz;marco virgilio ramirez teliz;Bourbon;15;200;7.33;7.08;10;80.17;4.289384655
+Guatemala;oriente;juan luis alvarado romero;Bourbon;250;200;7.33;7.33;10;80.17;3.438180877
+Honduras;marcala;cadexsa;Catuai;275;200;7.25;7.17;10;80.17;4.038263058
+Guatemala;oriente;the coffee source inc.;Caturra;250;200;7;7.33;10;80.25;3.770387697
+Mexico;calnali, hidalgo;saul m. hernandez ramirez;Caturra;10;200;7.58;7.25;10;80.25;4.382264317
+Mexico;pochutla;alfredo bojalil;Typica;250;200;6.92;7.5;10;80.42;3.695304065
+Mexico;la concordia;armando luis pohlenz martinez;Caturra;250;200;7.42;7.33;10;80.42;3.820975652
+Mexico;zaragoza itundujia;israel eduardo paz garcia;Typica;18;200;7.25;7.33;10;80.5;3.52615552
+Guatemala;huehuetenango;juan luis alvarado romero;Bourbon;250;200;7.5;7.67;10;80.5;4.348517073
+Guatemala;oriente;juan luis alvarado romero;Bourbon;250;200;7;7.33;10;80.67;4.440889183
+Guatemala;oriente;juan luis alvarado romero;Bourbon;250;200;7;7.17;10;80.67;3.562087383
+Mexico;el desmoronado, talpan de allende jalisco;cafe de don balbino s.c. de r.l. de c.v.;Typica;20;200;7.25;7.25;10;80.67;3.40485021
+Costa Rica;tarrazu;ceca, s.a.;Caturra;240;200;7.83;7.67;10;80.67;4.179598441
+Mexico;oaxaca;diego manuel woolrich ramirez;Typica;30;200;7.58;7.25;10;80.75;4.181757183
+Honduras;siguatepeque, comayagua;bismarck castro;Caturra;275;200;7.5;7.42;10;80.75;4.288190113
+Honduras;marcala;cadexsa;Catuai;275;200;7.42;7.42;10;80.75;3.959886479
+Mexico;motozintla;luis roberto fermoso beltran;Catuai;15;200;7.17;7.42;10;80.83;4.010184548
+Mexico;veracruz;christina dusing;Bourbon;100;200;7.5;7.25;10;80.83;3.700755639
+Guatemala;orient;the coffee source inc.;Caturra;250;200;7.67;7.33;10;80.83;4.018779067
+Mexico;ixhuatlan del cafe;eduardo luis augusto velazquez solis;Typica;60;200;7.58;7.5;10;80.92;3.743252157
+Thailand;thailand;doi tung development project;Other;2;200;7.33;7.42;10;81;3.686146929
+Mexico;motozintla, chiapas;alejandro garcia palacios;Other;10;200;7.08;7.33;10;81;4.120914019
+Mexico;adolfo lopez mateos;organizaciones de productores de cafe colimense;Typica;200;200;7.58;7.67;10;81;4.276383654
+Mexico;san fernando;obed rendon ponce;Typica;100;200;7.25;7.33;10;81.08;3.907004773
+Mexico;santo reyes nopala;diego manuel woolrich ramirez;Typica;30;200;7.33;7.42;10;81.08;4.036300543
+Mexico;santa maria sitepec;gerardo hernandez valderrabano;Typica;40;200;7.33;7.42;10;81.08;4.091157053
+Mexico;talpa de allende;balbino ramirez flores;Typica;15;200;7.42;7.42;10;81.08;4.295596542
+Costa Rica;naranjo;the coffee source inc.;Caturra;250;200;7.42;7.25;10;81.08;3.911199143
+Mexico;tapachula;julio perez hernandez;Typica;250;200;7.42;7.75;10;81.17;4.467426263
+Guatemala;oriente;the coffee source inc.;Caturra;250;200;7.42;7.25;10;81.17;3.738097291
+Brazil;monte carmelo;bourbon specialty coffees;Catuai;300;200;7.42;7.42;10;81.17;3.604904802
+Costa Rica;central valley;eric thormaehlen;Catuai;250;200;7.33;7.25;10;81.17;3.775118077
+Honduras;central region;nan;Catuai;275;200;7.42;7.42;10;81.17;3.632795997
+Mexico;motozintla;alfredo bojalil;Typica;250;200;7.42;7.33;10;81.25;4.459249058
+Honduras;marcala;cadexsa;Catuai;275;200;7.42;7.5;10;81.25;3.881944061
+Mexico;tapachula;julio perez hernandez;Typica;250;200;7.58;7.33;10;81.33;4.167740113
+Mexico;veracruz;hector gabriel barreda nader;Typica;70;200;7.33;7.42;10;81.33;3.666891822
+Honduras;san marcos;mayra yessenia torres;Catuai;275;200;7.33;7.33;10;81.33;3.596273593
+Honduras;marcala;cadexsa;Catuai;275;200;7.58;7.42;10;81.33;3.432596676
+Mexico;huazalingo, hidalgo;saul m. hernandez ramirez;Caturra;10;200;7.42;7.17;10;81.42;3.554755543
+Mexico;coatepec, coatepec;grupo cafetalero los brujos spr de rl;Typica;20;200;7.42;7.25;10;81.42;4.09536781
+Honduras;marcala;cadexsa;Catuai;275;200;7.5;7.25;10;81.42;4.046446088
+India;chikmagalur;andrew hetzel;Other;300;200;7.75;7.67;7.58;81.42;3.844443549
+Mexico;amatenango de la frontera;alfredo bojalil;Typica;250;200;7.58;7.42;10;81.5;3.639473434
+Mexico;temaxcalapa;jose luis munoz guerrero;Catuai;30;200;7.42;7.42;10;81.5;4.1122387
+Mexico;manzanillo;jose luis munoz guerrero;Typica;20;200;7.33;7.33;10;81.5;4.256625616
+Mexico;atoyac de alvarez;maria de la paz aguilar guillen;Typica;15;200;7.5;7.5;10;81.5;3.816129193
+Guatemala;oriente;juan luis alvarado romero;Bourbon;250;200;7.33;7.42;10;81.5;3.891587305
+Mexico;la concordia, chiapas;alfredo bojalil;Typica;250;200;7.33;7.42;10;81.5;3.798075754
+Costa Rica;occidental;santa laura exportadora de cafe s.l.e.c. s.a.;Caturra;250;200;7.83;7.08;10;81.5;4.350514405
+Myanmar;ywar ngan township;genius coffee;Catuai;1;200;7.25;7.5;10;81.5;3.446525077
+Mexico;la concordia;enrique eduardo lopez aguilar;Marigojipe;28;200;7.33;7.5;10;81.58;4.039714548
+Mexico;la concordia;enrique eduardo lopez aguilar;Typica;28;200;7.67;7.58;8.67;81.58;3.641023534
+Mexico;la concordia, chiapas;fredy gordillo reyes;Typica;310;200;7.67;7.5;10;81.58;3.510799391
+Mexico;tuxtla gutierrez;virginia gordillo gordillo;Typica;100;200;7.25;7.67;10;81.67;3.790059036
+Mexico;yajalon;jose luis munoz guerrero;Bourbon;15;200;7.67;7.75;10;81.67;3.545900444
+Mexico;veracruz;christina dusing;Bourbon;275;200;7.5;7.42;10;81.67;4.062791525
+Mexico;la concordia, chiapas;alfredo bojalil;Bourbon;250;200;7.58;7.58;10;81.67;3.420230543
+Mexico;la concordia, chiapas;fredy gordillo reyes;Typica;310;200;7.5;7.58;10;81.67;3.875219554
+Mexico;tenango de doria, hidalgo;saul m. hernandez ramirez;Bourbon;10;200;7.5;7.42;10;81.75;4.340151414
+Mexico;tepictla;sergio landa alarcon;Mundo Novo;100;200;7.42;7.67;10;81.75;3.927348617
+Mexico;oaxaca;diego manuel woolrich ramirez;Typica;42;200;7.42;7.58;10;81.75;4.307934008
+Mexico;la concordia;armando luis pohlenz martinez;Caturra;250;200;7.33;7.67;10;81.75;3.685026612
+Mexico;la concordia;enrique eduardo lopez aguilar;Typica;28;200;7.5;7.33;10;81.75;3.993291394
+Mexico;veracruz;christina dusing;Bourbon;302;200;7.83;7.58;10;81.83;3.855690916
+Mexico;coatepec;jorge francisco martinez hachity;Typica;15;200;7.33;7.5;10;81.83;3.680657854
+Honduras;marcala;cadexsa;Catuai;275;200;7.5;7.5;10;81.83;3.97883882
+Mexico;chapulhuacan, hidalgo;saul m. hernandez ramirez;Typica;10;200;7.5;7.25;10;81.92;3.700675393
+Mexico;huazalingo, hidalgo;saul m. hernandez ramirez;Mundo Novo;10;200;7.5;7.5;10;81.92;3.708361992
+Mexico;veracruz;juan hermilio sampieri carcamo;Other;30;200;7.33;7.58;10;81.92;4.303342192
+Mexico;chiapas;calixto guillen vazquez;Bourbon;450;200;7.58;7.58;10;81.92;4.49441538
+Mexico;coscomatepec;jorge octavio escamilla prado;Typica;15;200;7.67;7.5;10;82;3.780867354
+Guatemala;san marcos;juan luis alvarado romero;Bourbon;250;200;7.33;7.5;10;82;3.852829116
+Thailand;thailand;doi tung development project;Other;1;200;7.58;7.42;10;82;3.866304289
+Costa Rica;central valley;eric thormaehlen;Catuai;250;200;7.5;7.33;10;82;4.299939576
+Mexico;tapachula;julio perez hernandez;Typica;250;200;7.5;7.5;10;82.08;3.797799026
+Mexico;coatepec;rosa aurora falcon fernandez;Typica;15;200;7.67;7.58;10;82.08;3.881012776
+Mexico;veracruz;sergio de la vequia bernardi;Typica;250;200;7.58;7.75;10;82.08;3.454875659
+Indonesia;aceh gayo;sanjava coffee;Bourbon;2;200;7.5;7.42;10;82.08;4.070684307
+Mexico;san bartolo tutotepec;saul m. hernandez ramirez;Typica;10;200;7.5;7.5;10;82.17;4.346284614
+Guatemala;oriente;the coffee source inc.;Caturra;250;200;7.25;7.75;9.33;82.17;3.770595668
+Mexico;altotonga;salvador caro carrion;Typica;200;200;7.5;7.5;10;82.17;3.849445076
+Mexico;colima;organizaciones de productores de cafe colimense;Typica;60;200;7;7.5;10;82.17;4.29170891
+Thailand;thailand;doi tung development project;Other;1;200;7.42;7.75;10;82.17;3.680636316
+Honduras;marcala;cadexsa;Catuai;275;200;7.67;7.42;10;82.17;3.716677566
+Mexico;calnali, hidalgo;saul m. hernandez ramirez;Bourbon;10;200;7.58;7.17;10;82.25;3.685760145
+Mexico;veracruz;manuel herrera juarez;Bourbon;10;200;7.5;7.67;10;82.25;3.433458107
+Mexico;juquila;guillermo rojas saldana;Typica;40;200;7.67;7.5;10;82.25;4.420057666
+El Salvador;nan;adam kline;Other;288;200;7.75;7.5;10;82.25;4.294767174
+Mexico;veracruz;sergio de la vequia bernardi;Typica;250;200;7.33;7.67;10;82.25;4.450055489
+Mexico;canoas;organizaciones de productores de cafe colimense;Typica;250;200;7.42;7.58;10;82.25;4.310113349
+Mexico;veracruz;jesus carlos cardenas valdivia;Mundo Novo;150;200;7.58;7.42;10;82.25;3.48927626
+Honduras;marcala;cadexsa;Catuai;275;200;7.58;7.58;10;82.25;3.578083323
+Mexico;jaltocan, hidalgo;saul m. hernandez ramirez;Typica;10;200;7.58;7.33;10;82.33;3.789410124
+Mexico;veracruz;manuel herrera juarez;Bourbon;10;200;7.67;7.58;10;82.33;3.530495607
+Guatemala;oriente;juan luis alvarado romero;Bourbon;250;200;7.5;7.5;10;82.33;4.006787979
+Mexico;santa catarina juquila;maria luisa del carmen rojas narvaez;Typica;10;200;8;7.33;10;82.33;3.820360567
+Mexico;la concordia, chiapas;alfredo bojalil;Typica;250;200;7.67;7.5;10;82.33;4.122786486
+Mexico;xalapa;manuel herrera juarez;Caturra;10;200;7.75;7.58;10;82.42;3.443400318
+Mexico;zihuatanejo de azueta;dario cesar galeana sanchez;Typica;74;200;7.5;7.5;10;82.42;4.457117588
+Mexico;veracruz;jose daniel cobilt castro;Pacamara;26;200;7.58;7.5;10;82.42;3.946075754
+Mexico;xicotepec de juarez;alvaro quiros perez;Caturra;10;200;7.58;7.58;10;82.42;3.788869121
+Mexico;progreso santa rosa teocelo;olivia hernandez virves;Bourbon;1;200;7.67;7.42;10;82.42;3.431200264
+Mexico;fln mirador;finca las nieves;Typica;10;200;7.83;7.67;10;82.42;4.498940861
+Guatemala;atitlan;the coffee source inc.;Caturra;250;200;7.5;7.67;10;82.42;4.24590584
+Mexico;veracruz;manuel herrera juarez;Bourbon;10;200;7.5;7.92;10;82.42;3.871528779
+Mexico;chiapas;nestor mendez gomez;Typica;49;200;7.5;7.67;10;82.42;4.26506279
+Mexico;la yerba;productos y servicios chilindron s.a. de c.v.;Typica;10;200;7.42;7.58;10;82.42;4.380401963
+Mexico;san bartolo tutotepec;saul m. hernandez ramirez;Typica;10;200;7.5;7.5;10;82.5;4.027896122
+Mexico;zapotitlan de mendez;enrique mitre lopez;Typica;10;200;7.67;7.67;10;82.5;4.347118772
+Mexico;la concordia;enrique eduardo lopez aguilar;Typica;28;200;7.92;7.58;10;82.5;3.8777248
+Guatemala;oriente;juan luis alvarado romero;Caturra;275;200;7.67;7.33;10;82.5;3.916046212
+Thailand;thailand;doi tung development project;Other;1;200;7.5;7.75;10;82.5;4.095297398
+Indonesia;bali;sanjava coffee;Other;2;200;7.83;7.5;10;82.5;4.03454929
+Mexico;oaxaca;guillermo rojas saldana;Typica;50;200;7.5;7.5;10;82.58;3.959578075
+Mexico;colima;organizaciones de productores de cafe colimense;Typica;70;200;7.67;7.75;10;82.58;3.7749664
+Costa Rica;central valley;eric thormaehlen;Catuai;250;200;7.67;7.67;10;82.58;3.942104421
+Thailand;thailand;doi tung development project;Other;1;200;7.75;7.67;10;82.58;4.376123715
+El Salvador;nan;adam kline;Other;288;200;7.92;6.75;9.33;82.67;3.933568314
+Thailand;thailand;doi tung development project;Other;2;200;7.83;7.33;9.33;82.67;3.695860197
+Mexico;nan;montegrande;Other;36;200;7.58;7.58;10;82.67;4.038632862
+Mexico;mahuixtlan;grupo cafetalero los brujos spr de rl;Typica;23;200;7.5;7.58;10;82.67;4.125877331
+Mexico;la yerba;productos y servicios chilindron s.a. de c.v.;Typica;11;200;7.67;7.5;10;82.67;3.655381133
+Mexico;veracruz;sergio de la vequia bernardi;Typica;250;200;7.58;7.75;10;82.75;3.985669488
+Mexico;atoyac de alvarez;romulo bello flores;Typica;21;200;8.08;8;10;82.75;3.682520357
+India;chikmagalur;andrew hetzel;Other;200;200;8;8;7.75;82.75;3.461306385
+Colombia;antioquia;the coffee source inc.;Caturra;250;200;7.58;7.33;10;82.75;3.401184489
+Mexico;chiapas;nestor mendez gomez;Typica;32;200;7.58;7.5;10;82.75;4.411297167
+Colombia;huila;coffee export;Typica;275;200;7.67;7.58;10;82.75;4.369824762
+Indonesia;sapan toraja;sanjava coffee;Sulawesi;2;200;7.5;7.58;10;82.75;4.095728765
+Mexico;la concordia;armando luis pohlenz martinez;Caturra;250;200;7.58;7.58;10;82.83;3.988532371
+Mexico;veracruz;alfredo bojalil;Bourbon;250;200;7.67;7.75;10;82.83;3.426543352
+Guatemala;oriente;juan luis alvarado romero;Bourbon;250;200;7.67;7.5;10;82.83;3.705916686
+Mexico;la concordia;alfredo bojalil;Typica;250;200;7.58;7.42;10;82.83;3.456861364
+Colombia;santander;coffeebythebag.com , inc;Typica;40;200;7.5;7.5;10;82.83;3.423974652
+Mexico;petatlan;maria guadalupe gomez anzo;Typica;15;200;7.58;7.25;10;82.92;4.264870548
+Mexico;la cumbre;veronica lopez castillejos;Typica;100;200;8;7.17;10;82.92;4.174997792
+Colombia;la plata;racafe & cia s.c.a;Caturra;121;200;7.67;7.5;10;83;3.725891929
+Mexico;coatepec;rosa aurora falcon fernandez;Typica;15;200;7.67;7.5;10;83;3.748318071
+Mexico;atoyac de alvarez;santiago solis ayerdi;Typica;20;200;7.67;7.58;10;83;4.353581433
+Mexico;coatepec;alfredo bojalil;Bourbon;250;200;7.5;7.5;10;83;4.233913496
+Guatemala;la reforma, san marcos;juan luis alvarado romero;Bourbon;275;200;7.5;7.67;10;83;3.514432238
+Costa Rica;central valley;eric thormaehlen;Catuai;250;200;7.67;7.58;10;83;3.773643234
+Mexico;santa catarina juquila;maria luisa del carmen rojas narvaez;Other;10;200;7.75;7.75;10;83.08;4.051750818
+Costa Rica;central valley;eric thormaehlen;Catuai;250;200;7.83;7.67;10;83.08;4.490306002
+Mexico;tlanchinol, hidalgo;saul m. hernandez ramirez;Typica;10;200;7.75;7.5;10;83.17;4.484922969
+Mexico;san bartolo tutotepec;saul m. hernandez ramirez;Pacamara;10;200;7.58;7.67;10;83.17;3.426362212
+Mexico;san isidro;fernando mendoza aparicio;Typica;15;200;7.75;7.75;10;83.17;3.475499683
+Mexico;la concordia;alfredo bojalil;Typica;250;200;7.5;7.58;10;83.17;3.856079176
+Honduras;san marcos;mayra yessenia torres;Catuai;275;200;7.5;7.67;10;83.17;4.050261024
+Mexico;chiapas;nestor mendez gomez;Typica;45;200;7.75;7.58;10;83.17;4.231919247
+Thailand;thailand;doi tung development project;Other;1;200;7.67;7.75;10;83.17;3.803908218
+Mexico;veracruz;ernesto rodriguez luna;Mundo Novo;10;200;7.75;7.58;10;83.25;3.50567758
+Guatemala;oriente;juan luis alvarado romero;Bourbon;250;200;7.83;7.83;10;83.25;3.418322381
+Mexico;chiapas;calixto guillen vazquez;Bourbon;200;200;7.58;7.5;10;83.25;3.971464896
+Costa Rica;central valley;eric thormaehlen;Catuai;250;200;7.5;7.5;10;83.33;3.5123356
+Mexico;xalapa;manuel herrera juarez;Bourbon;10;200;7.83;7.5;10;83.5;3.631719319
+Mexico;totutla;gabriel bernardo rivas ross;Pacamara;15;200;7.75;7.75;10;83.5;3.50382701
+Guatemala;atitlan;the coffee source inc.;Caturra;250;200;7.58;7.83;10;83.5;4.072230762
+Mexico;xalapa;alfredo bojalil;Typica;250;200;7.83;7.58;10;83.58;4.219123352
+Guatemala;oriente;the coffee source inc.;Caturra;250;200;8.17;7.67;9.33;83.67;3.635489908
+Guatemala;oriente;juan luis alvarado romero;Bourbon;250;200;7.67;7.42;10;83.67;3.719625866
+Mexico;xicotepec de juarez;juan luis ortega carballo;Typica;48;200;7.67;7.33;10;83.67;3.873240025
+Thailand;thailand;doi tung development project;Other;1;200;7.5;7.83;10;83.67;3.854540178
+Mexico;huazalingo, hidalgo;saul m. hernandez ramirez;Caturra;10;200;7.83;7.5;10;83.75;3.678847344
+Mexico;petatlan;filemon mendoza campos;Bourbon;20;200;7.67;7.42;10;83.83;3.621052777
+Mexico;la concordia, chiapas;alfredo bojalil;Pacas;250;200;7.67;7.75;10;83.83;4.219915453
+Costa Rica;central valley;eric thormaehlen;Catuai;250;200;7.83;7.83;10;83.83;3.90073406
+Mexico;xicotepec de juarez;oscar ortega carballo;Typica;48;200;7.67;7.67;10;83.92;3.513844044
+Mexico;la concordia;alfredo bojalil;Typica;250;200;7.5;7.83;10;83.92;3.424009287
+Mexico;la yerbabuena;organizaciones de productores de cafe colimense;Typica;20;200;7.75;7.92;10;83.92;4.112620971
+Thailand;thailand;doi tung development project;Other;2;200;7.92;8.42;9.33;84;4.313651439
+Colombia;huila;olam agro colombia;Other;250;200;7.67;7.67;10;84;3.426276407
+Mexico;santo domingo cacalotepec;andres martinez leon;Typica;300;200;7.67;7.75;10;84.08;3.765391846
+Guatemala;guatemala;juan luis alvarado romero;Catuai;275;200;7.83;8;10;84.17;4.429941294
+Mexico;veracruz;manuel herrera juarez;Bourbon;20;200;7.83;7.67;10;84.25;4.461873742
+Mexico;la concordia, chiapas;alfredo bojalil;Bourbon;250;200;7.83;7.75;10;84.25;3.718884846
+Mexico;tapachula;maria amalia guadalupe toriello elorza;Pacamara;69;200;7.75;7.67;10;84.42;4.393819589
+Mexico;hustusco;maria imelda uscanga martinez;Typica;56;200;8;8.08;10;84.5;4.064475071
+Mexico;jaltenango;alfredo bojalil;Typica;250;200;7.92;7.75;10;84.5;3.46048356
+Costa Rica;tres rios;lusso lab;Bourbon;1;200;7.75;8;10;84.58;3.823786682
+Guatemala;oriente;juan luis alvarado romero;Bourbon;250;200;8;7.83;10;84.67;4.484036922
+Guatemala;acatenango;juan luis alvarado romero;Bourbon;125;200;7.67;8;10;84.67;3.878690003
+Mexico;el remudadero;organizaciones de productores de cafe colimense;Typica;80;200;7.83;7.92;10;84.67;3.788046532
+Costa Rica;west valley;eric thormaehlen;Catuai;275;200;8;7.75;10;84.67;3.669571175
+Indonesia;temanggung, indonesia;sanjava coffee;Java;2;200;7.92;7.75;10;84.67;3.575744322
+Honduras;marcala;cadexsa;Catuai;275;200;7.83;7.67;10;84.75;4.384091611
+Mexico;coatepec;artemio zapata tejeda;Typica;25;200;7.75;7.83;10;84.92;4.289926146
+Guatemala;huehuetenango;the coffee source inc.;Caturra;250;200;8.25;7.92;10;85.17;3.471629133
+El Salvador;ataco, apaneca - ilamatepec mountain range;lusso lab;Bourbon;19;200;7.83;7.75;10;85.58;3.515016873
+Guatemala;acatenango;juan luis alvarado romero;Bourbon;150;200;7.83;8.17;10;85.83;4.096074268
+Guatemala;nuevo oriente;juan luis alvarado romero;Catuai;275;200;8;8.33;10;85.83;4.040200798
+Kenya;kiambu;lusso lab;SL28;1;200;7.92;8.5;10;86;3.533098926
+Thailand;chiang rai;itdp international;Caturra;53;200;7.83;8.25;10;86.17;3.651593341
+United States;antioquia;cqi q coffee sample representative;Other;10;200;7.67;8;10;86.17;3.723542241
+Kenya;muranga;daniel magu;SL34;320;200;8.08;8.25;10;86.25;3.703844899
+United States;antioquia;cqi q coffee sample representative;Other;10;200;8.25;8.17;10;87.08;3.774754784
+Mexico;xalapa;roberto licona franco;Other;14;200;8.17;8;10;87.17;4.387674009
+United States;antioquia;cqi q coffee sample representative;Other;10;200;8;8.5;10;87.25;4.050835773
+United States;antioquia;cqi q coffee sample representative;Other;10;200;8;8.17;10;87.58;3.738155772
+United States;antioquia;cqi q coffee sample representative;Other;10;200;8.25;8.33;10;87.92;3.695170843
+United States;antioquia;cqi q coffee sample representative;Other;10;200;8.08;8.42;10;87.92;4.160186498
+Colombia;pereira;the coffee source inc.;Caturra;250;200;7.42;7.25;10;79.33;3.630444396
+Costa Rica;san ramon;the coffee source inc.;Caturra;250;200;7.33;7.25;10;80.75;3.737849788
+Costa Rica;san ramon;the coffee source inc.;Caturra;250;200;7.67;7.67;10;83.33;4.395058969
+Guatemala;quetzaltenango;the coffee source inc.;Caturra;250;200;7.67;7.67;10;83.75;3.702861078
+Costa Rica;west valley;the coffee source inc.;Caturra;250;200;7.92;7.92;9.33;85.33;3.896449844
+Costa Rica;san ramon;the coffee source inc.;Caturra;250;200;8;7.67;10;85.33;4.297888569
+Costa Rica;san ramon;the coffee source inc.;Caturra;250;200;8.08;8.17;10;87.17;4.167421236
+Haiti;dondon, haiti;myriam kaplan-pasternak;Typica;1;250;6.83;6.75;10;77.25;3.910842248
+Haiti;dondon, haiti;myriam kaplan-pasternak;Blue Mountain;300;250;7.42;7.42;10;81.5;4.472909298
+Colombia;nan;cafe politico;Other;1;250;7.58;7.58;10;83.17;4.202038689
+Haiti;thiotte, haiti;itiah coffee llc;Typica;2;250;7.58;7.5;10;83.33;3.852447261
+Haiti;department d'artibonite , haiti;myriam kaplan-pasternak;Typica;1;250;6.75;6.67;6;67.92;4.2536045
+Mexico;sierra norte yajalon, chiapas;kurt kappeli;Typica;280;250;6.92;6.92;10;70.75;3.632314508
+Honduras;intibuca;cafes finos de exportacion s de r.l.;Pacas;275;250;7;7.17;8;73.42;3.762004899
+Philippines;benguet, mountain province;ana gonzales;Other;1;250;6.83;6.92;9.33;75.83;3.824513478
+Honduras;intibuca;cafes finos de exportacion s de r.l.;Pacas;275;250;6.83;6.83;10;76;4.083866679
+Indonesia;indonesia;william ho;Other;15;250;7.33;6.08;9.33;76.17;3.627346647
+Peru;san ignacio;andrew bowman;Caturra;275;250;7.42;7.67;9.33;77;3.935835379
+China;yunnan;samuel eli gurel;Typica;16;250;7.33;7.08;9.33;78;3.82561869
+Honduras;intibuca;cafes finos de exportacion s de r.l.;Pacas;275;250;6.83;7;10;78;4.394733719
+Ecuador;san juan, playas;luis robles;Other;1;250;7.5;7.75;8.42;78.08;3.871154533
+Nicaragua;nan;exportadora atlantic, s.a.;Other;275;250;6.83;6.75;10;78.58;3.607970329
+China;yunnan;adam ciruli ye;Typica;1;250;7;7.17;9.33;78.67;4.186688852
+Ecuador;san juan, playas;luis robles;Other;1;250;7.75;7.58;7.75;78.75;3.756166607
+Honduras;intibuca;cafes finos de exportacion s de r.l.;Pacas;275;250;7;7;10;79;4.341618868
+Costa Rica;san rafael;brent hall;Catuai;1;250;7.17;8;6.67;79.17;4.336465054
+Costa Rica;brunca;the coffee source inc.;Catuai;275;250;7.58;7.75;10;79.75;3.7974386
+Colombia;huila;federacion nacional de cafeteros;Other;275;250;7.83;7.75;10;79.92;4.247914726
+Mexico;sierra fraylesca, chiapas;kurt kappeli;Typica;280;250;7.58;7.5;10;80;3.400746053
+Myanmar;doe kwin, pyin oo lwin;ngu shwe li;Other;1;250;7.17;7.42;10;80;3.94567947
+India;chikmagalur;andrew hetzel;Other;250;250;7.58;7.83;7.42;80.17;4.154485325
+India;chikmagalur;andrew hetzel;Other;100;250;7.67;7.33;7.42;80.17;3.502452974
+Nicaragua;jinotega;exportadora atlantic, s.a.;Caturra;275;250;7.17;7.33;10;80.17;3.66665283
+Vietnam;dala;sunvirtue co., ltd.;Catimor;1;250;7.42;7.58;10;80.17;4.209275932
+Colombia;nan;honor dela fuente;Typica;1;250;7.42;7.75;8.67;80.25;4.212691077
+Myanmar;ywar ngan;u htun htun;Catuai;1;250;7.42;7;10;80.25;4.282958791
+Myanmar;yauk sauk, shan state;bob mccauley;Other;2;250;8;7.33;10;80.25;3.738199623
+El Salvador;department of ahuachapan, municipality of apanecallamatepec mountain;lusso lab;Bourbon;2;250;7.33;7.08;10;80.42;4.129014451
+China;yunnan;adam ciruli ye;Other;1;250;7.25;7.17;10;80.42;4.052906672
+Myanmar;pyin oo lwin;shwe yin mar coffee;Other;1;250;7.17;7.42;10;80.5;4.208930977
+Haiti;haiti;myriam kaplan-pasternak;Typica;1;250;7.42;7.25;10;80.75;4.139483879
+Myanmar;ywar ngan;u soe;Catuai;1;250;6.92;7.58;10;80.75;3.815691603
+Myanmar;pyinoolwin;min hlaing;Other;2;250;7.17;7.58;10;80.92;4.250409129
+Philippines;corillera administrative;victoria;Typica;2;250;7.25;7.08;10;81.17;4.021180641
+India;chikmagalur;andrew hetzel;Other;140;250;7.5;7.83;7.83;81.25;3.753198421
+Philippines;davao city, region 11;victoria;Other;2;250;7.08;7.33;10;81.33;4.407419993
+Mexico;siltepec el triunfo;kurt kappeli;Typica;280;250;7.67;7.17;10;81.42;3.994510245
+India;chikmagalur;andrew hetzel;Other;100;250;7.58;7.58;7.5;81.58;3.943986676
+Vietnam;vietnam;sunvirtue co., ltd.;Caturra;1;250;7;7.5;10;81.75;3.85053689
+Mexico;siltepec el triunfo, chiapas, mexico;kurt kappeli;Typica;280;250;7.42;7.5;10;81.83;3.416290945
+Myanmar;ywar ngan;u mg mg;Catuai;1;250;7.33;7.42;10;81.83;3.464987936
+Mexico;chiapas;viridiana;Catuai;250;250;7.58;7.5;10;81.83;4.310041983
+Honduras;nan;rob tuttle;Other;1;250;7.42;7.58;10;81.92;3.703578004
+Zambia;mubuyu estate;lusso lab;SL28;13;250;7.67;7.33;10;81.92;3.800499734
+Guatemala;oriente;felipe isaza;Bourbon;250;250;7.75;7.42;9.33;82;4.35294565
+Laos;lao p.d.r.;minwook ku;Other;1;250;7.42;7.33;10;82;4.376914073
+Vietnam;don duong;royal base corporation;Other;1;250;7.67;7.08;10;82.08;3.420441635
+Mexico;la concordia, chiapas;lusso lab;Other;2;250;7.5;7.42;10;82.17;3.465264569
+Brazil;cerrado;pedro santos e silva;Catuai;320;250;7.33;7.33;10;82.33;4.270789023
+Honduras;nan;brent hall;Other;1;250;7.25;7.17;10;82.42;3.528503052
+Honduras;comayagua, honduras;brian beck;Other;1;250;7.42;7.58;10;82.42;4.385883766
+Mexico;chiapas;lusso lab;Other;2;250;7.42;7.67;10;82.5;3.72834129
+Guatemala;nan;brent hall;Other;1;250;7.5;7.58;10;82.58;3.624919426
+India;chikmagalur;andrew hetzel;Other;320;250;7.67;7.83;8;82.58;4.169671652
+Indonesia;aceh;andry simarmata;Typica;150;250;7.83;7.33;10;82.58;3.608300352
+Colombia;huila;federacion nacional de cafeteros;Other;1;250;7.75;7.58;10;82.67;3.472746749
+Panama;boquete;rachel peterson;Catuai;300;250;7.42;7.58;10;82.75;3.709898089
+Vietnam;vietnam tutra;sunvirtue co., ltd.;Other;3;250;7.25;7.42;10;82.83;4.041806331
+Guatemala;nan;rob tuttle;Other;1;250;7.58;7.58;10;82.92;3.552071463
+Vietnam;don duong;royal base corporation;Other;1;250;7.67;7.58;10;82.92;4.391496484
+Philippines;asia pacific;zarah zamora perez;Other;4;250;8.08;7.42;10;82.92;3.459821232
+Philippines;bukidnon, mindanao, philppines;renee a. perrine;Other;250;250;7.58;7.58;10;82.92;4.0427126
+Mexico;chiapas;andrew bowman;Bourbon;275;250;7.75;7.42;10;82.92;4.296610986
+Vietnam;vietnam cau dat;sunvirtue co., ltd.;Caturra;2;250;7.75;7.58;10;83;3.557693815
+Brazil;high mogiana;irene alves santos;Catuai;305;250;7.67;7.5;10;83;3.869957096
+Guatemala;oriente;felipe isaza;Bourbon;250;250;7.75;7.5;9.33;83.17;3.880678038
+Kenya;kenya;taylor winch (coffee) ltd.;SL28;300;250;7.83;7.75;9.33;83.17;4.462886334
+Vietnam;dala;sunvirtue co., ltd.;Catimor;1;250;7.58;7.33;10;83.17;4.303965674
+India;chikmagalur;andrew hetzel;Other;300;250;7.92;8;7.83;83.25;4.262745057
+Guatemala;oriente;felipe isaza;Bourbon;250;250;7.5;7.5;10;83.5;3.488702962
+Colombia;huila;federacion nacional de cafeteros;Other;275;250;7.67;7.83;10;83.5;3.688315148
+Colombia;huila;federacion nacional de cafeteros;Other;275;250;7.83;7.58;10;83.92;3.990990115
+Colombia;huila;federacion nacional de cafeteros;Other;275;250;7.92;7.83;10;83.92;3.696965999
+Guatemala;aldea xeucalvitz, ixil region, quiche department;lusso lab;Bourbon;1;250;7.58;8;10;84.08;4.419431644
+Indonesia;aceh tengah;pt.royal pacific indah international;Mandheling;2;250;7.81;7.75;10;84.13;4.133047046
+El Salvador;apaneca;atlantic specialty coffee;Bourbon;275;250;8.42;7.17;10;84.17;4.320145631
+Nicaragua;jinotega;cooperativa el gorrion r.l;Caturra;275;250;7.67;7.5;10;84.17;3.404858336
+Taiwan;mountain ali, taiwan;kao ming lee;Typica;2;250;7.83;8;10;84.42;3.740700769
+China;yunnan;eric wu;Other;1;250;7.67;7.83;10;84.5;4.468063689
+Costa Rica;nan;rob tuttle;Other;1;250;8.08;7.83;9.33;84.67;4.337497777
+El Salvador;apaneca;atlantic specialty coffee;Bourbon;275;250;7.92;7.92;10;85.58;3.779004985
+Colombia;tolima;lusso lab;Caturra;1;250;7.75;8.08;10;86;3.861447167
+Colombia;nan;honor dela fuente;Other;1;250;8;7.33;6.67;72.83;3.808141446
+Vietnam;nan;cafe politico;Other;1;250;6.75;6.83;6.67;73.75;3.548223343
+India;nan;cafe politico;Other;1;250;7.42;7.17;7.08;75.08;4.131349258
+Brazil;nan;cafe politico;Other;1;250;7;6.83;10;77.83;4.327401667
+United States;yauco region;german negron;Other;18;250;7.42;7.33;10;79.08;3.788661794
+Peru;huanuco;dane loraas;Other;320;250;7;7.25;10;79.75;3.507725574
+Nicaragua;nan;honor dela fuente;Other;1;250;7.25;7.25;10;80.08;4.459622604
+United States;yauco region;german negron;Other;18;250;7.67;7.58;10;81.08;4.007887927
+United States;central america;wali ali;Pache Comun;1;250;7.42;7.42;10;81.08;3.819068863
+Peru;puno;dane loraas;Other;280;250;7.42;7.33;10;81.42;4.025236083
+Mexico;veracruz;dane loraas;Other;320;250;7.42;8;10;81.67;4.413985205
+Brazil;nan;cafe politico;Other;1;250;7.17;7.25;10;81.75;4.438244018
+Nicaragua;nan;chris finch;Other;275;250;7.58;7.17;10;81.92;4.361711532
+Colombia;nan;cafe politico;Other;1;250;7.5;7.42;10;82.08;3.873984194
+Mexico;veracruz;dane loraas;Other;320;250;7.33;7.5;10;82.33;3.946793341
+Peru;peru;dane loraas;Other;320;250;7.58;7.75;10;82.42;4.437056956
+Mexico;veracruz;dane loraas;Other;320;250;7.58;7.75;10;82.58;4.225092092
+United States;yauco region;german negron;Other;17;250;7.67;7.83;9.33;83;3.982388474
+Peru;nan;dane loraas;Other;280;250;7.83;7.83;10;83.33;3.41247894
+United States;yauco region;german negron;Other;18;250;7.83;7.67;10;83.75;3.829457166
+Ecuador;province of manabi, ecuador;garet alban;Other;1;250;7.5;7.75;10;83.83;3.785769713
+Guatemala;nan;chris finch;Other;275;250;7.67;7.75;10;84.17;3.543001374
+Peru;cajamarca;dane loraas;Other;280;250;8;8.08;10;85.75;4.260064297
+Colombia;antioquia;the coffee source inc.;Caturra;250;250;7.42;7.17;10;82.33;3.924213144
+Indonesia;bener meriah;chris finch;Sumatra;320;400;7.17;7.42;10;81.67;3.605039385
+Ethiopia;limu;ethiopia commodity exchange;Other;300;600;7.42;7.92;8.67;80;3.664057254
+Ethiopia;kelem welega;ethiopia commodity exchange;Other;360;600;7.25;7.33;10;80.33;3.854827976
+Ethiopia;sidamo;ethiopia commodity exchange;Other;300;600;7.58;8;10;83.83;4.324437654
+Ethiopia;sidamo;ethiopia commodity exchange;Other;360;600;7.67;8;10;85.08;4.310620485
+Indonesia;lington nihuta;essencecoffee;Typica;300;100;7.42;7.33;10;81.83;4.063186527
+Colombia;huila;essencecoffee;Other;100;240;7.83;7.58;10;82.83;3.760467371
+Guatemala;huehuetenango;essencecoffee;Pacamara;36;250;7.33;7.25;10;81.25;3.885596493
+Colombia;huila;carcafe ltda ci;Caturra;600;300;7.67;7.67;10;83.42;4.183187969
+Indonesia;sumatra brastagi;aulia arif syahri;Mandheling;200;300;7.58;7.67;10;80.67;4.181173667
+Indonesia;bali;aulia arif syahri;Other;166;300;7.75;7.75;10;81.83;4.222714093
+Indonesia;bener meriah;aulia arif syahri;Sumatra;200;300;7.25;7.92;10;83.5;4.36406969
+Indonesia;sumatra brastagi;aulia arif syahri;Mandheling;200;300;7.67;7.58;10;84.42;4.023182937
+Ethiopia;yirgacheffe;essencecoffee;Ethiopian Yirgacheffe;250;300;8.08;7.83;10;84.67;3.585344364
+Guatemala;huehuetenango;essencecoffee;Pacamara;36;300;7.83;7.67;10;85.33;3.478269055
+Brazil;nan;ji-ae ahn;Other;100;300;8.58;8.5;10;88.83;4.303033386
+Guatemala;acatenango;juan luis alvarado romero;Bourbon;120;300;7.75;8;10;84.67;3.460083561
+United States;kona;eileen koyanagi;Hawaiian Kona;10;300;7.67;7.83;10;82.75;3.880970422
+Thailand;chiangrai;sarawut premjit;Catimor;45;400;7.67;7.67;10;83.92;3.425943839
+United States;kona;eileen koyanagi;Hawaiian Kona;11;450;6.92;7.5;9.33;72.58;4.172105307
+United States;kona;kona pacific farmers cooperative;Hawaiian Kona;22;450;7.17;7.58;6.67;73.67;4.418301031
+United States;kona;eileen koyanagi;Hawaiian Kona;3;450;7.5;7.25;6.67;74.42;4.457533956
+United States;kona;eileen koyanagi;Other;6;450;7.5;7.58;8;76.17;4.06909802
+United States;kona;eileen koyanagi;Hawaiian Kona;2;450;7.25;7.17;9.33;76.25;4.350536959
+United States;kona;kona pacific farmers cooperative;Other;5;450;7.58;7.67;6;77.58;3.414199413
+United States;kona;eileen koyanagi;Hawaiian Kona;5;450;7.58;7.42;9.33;78;3.705537559
+United States;kona;kona pacific farmers cooperative;Hawaiian Kona;5;450;7.42;7.5;9.33;78.25;3.926954448
+United States;kona;eileen koyanagi;Hawaiian Kona;18;450;7.5;7.58;8.67;78.25;3.477150226
+United States;kona;eileen koyanagi;Hawaiian Kona;5;450;7.5;7.83;8.67;78.33;3.662793527
+United States;kona;kona pacific farmers cooperative;Hawaiian Kona;12;450;7.58;7.17;10;79.83;3.40886106
+United States;kona;eileen koyanagi;Hawaiian Kona;2;450;7.5;7.67;9.33;80.25;4.25404284
+United States;kona;kona pacific farmers cooperative;Hawaiian Kona;10;450;7.17;7.33;10;80.33;3.592274985
+United States;kona;eileen koyanagi;Hawaiian Kona;10;450;7.42;7.58;10;80.5;4.192467177
+United States;kona;kona pacific farmers cooperative;Hawaiian Kona;7;450;7.42;7.25;10;80.83;4.080635924
+United States;kona;eileen koyanagi;Hawaiian Kona;7;450;7.42;7.17;10;80.92;4.11393116
+United States;nan;kona pacific farmers cooperative;Hawaiian Kona;2;450;7.42;7.58;10;81.08;3.456110404
+United States;kona;kona pacific farmers cooperative;Hawaiian Kona;13;450;7.42;7.33;10;81.67;4.230848287
+United States;kona;kona pacific farmers cooperative;Hawaiian Kona;19;450;7.83;8;10;81.83;4.398119881
+United States;kona;kona pacific farmers cooperative;Hawaiian Kona;4;450;7.25;7.25;10;82.08;4.036738607
+United States;kona;kona pacific farmers cooperative;Hawaiian Kona;10;450;7.33;7.58;10;82.08;4.081714941
+United States;kona;kona pacific farmers cooperative;Hawaiian Kona;6;450;7.33;7.67;10;82.25;4.151609494
+United States;kona;kona pacific farmers cooperative;Hawaiian Kona;7;450;7.33;7.75;10;82.5;4.325710404
+United States;kona;kona pacific farmers cooperative;Hawaiian Kona;6;450;7.25;7.83;10;82.75;4.394302163
+United States;kona;eileen koyanagi;Hawaiian Kona;6;450;7.58;7.75;10;82.75;4.010428529
+United States;kona;kona pacific farmers cooperative;Hawaiian Kona;8;450;7.5;7.42;10;82.92;4.491828246
+United States;kona;kona pacific farmers cooperative;Hawaiian Kona;6;450;7.83;7.17;10;83.08;4.473673029
+United States;kona;kona pacific farmers cooperative;Hawaiian Kona;7;450;7.67;7.67;10;83.08;4.016093502
+United States;kona;kona pacific farmers cooperative;Hawaiian Kona;6;450;7.33;7.92;10;83.08;3.91135697
+United States;kona;eileen koyanagi;Hawaiian Kona;16;450;7.33;7.33;10;83.08;3.998294584
+United States;kona;eileen koyanagi;Hawaiian Kona;6;450;7.5;7.42;10;83.17;4.47444222
+United States;kona;kona pacific farmers cooperative;Hawaiian Kona;11;450;7.58;8;9.33;83.25;3.981946151
+United States;kona;kona pacific farmers cooperative;Hawaiian Kona;7;450;7.92;7.83;10;83.33;3.402824805
+United States;kona;eileen koyanagi;Hawaiian Kona;12;450;7.83;7.67;9.33;83.33;4.352694168
+United States;kona;kona pacific farmers cooperative;Hawaiian Kona;13;450;7.42;7.58;10;83.42;3.996854476
+United States;kona;kona pacific farmers cooperative;Hawaiian Kona;12;450;7.25;7.58;10;83.75;3.969875342
+United States;kona;kona pacific farmers cooperative;Hawaiian Kona;14;450;7.83;7.83;10;84.08;4.116690426
+United States;kona;kona pacific farmers cooperative;Hawaiian Kona;7;450;7.33;7.92;9.33;84.25;4.216535845
+United States;kona;kona pacific farmers cooperative;Hawaiian Kona;5;450;7.92;7.83;10;84.42;3.460852946
+United States;kona;kona pacific farmers cooperative;Hawaiian Kona;14;450;7.67;7.75;10;84.83;3.588980747
+United States;kona;eileen koyanagi;Hawaiian Kona;12;450;7.58;7.92;10;85.08;3.662088832
+United States;kona;kona pacific farmers cooperative;Hawaiian Kona;8;450;7.92;7.92;10;85.42;3.981711191
+United States;kona;kona pacific farmers cooperative;Hawaiian Kona;8;450;7.83;7.75;10;85.58;4.251260881
+United States;kona;kona pacific farmers cooperative;Other;25;450;8.25;7.75;10;86.25;3.873019997
+United States;kona;kona pacific farmers cooperative;Hawaiian Kona;10;450;8.08;7.92;10;86.25;4.327186285
+Costa Rica;tarrazu;troy quimby;Catuai;15;450;7.25;7.33;10;81.83;3.785773672
+Costa Rica;tarrazu;troy quimby;Catuai;29;450;7.5;7.5;10;83.25;3.979308043
+Costa Rica;tarrazu;troy quimby;Catuai;36;450;7.83;7.92;10;85;3.9962906
+India;chickmangalore;joshua marsceau;Other;20;500;7.67;6.67;6.67;76.83;3.827260712
+Thailand;doi chaang village, chiang rai, thialand;doi chaang coffee company;Other;12;500;7.08;7.58;10;81.58;4.149706116
+Kenya;nyeri;jungle estate;SL28;27;500;7.75;7.58;10;82.83;4.216593912
+Mexico;sierra madre occidental;cafe de don balbino s.c. de r.l. de c.v.;Typica;50;500;7.67;7.83;10;83.25;3.788045083
+Thailand;doi chaang village, chiang rai, thialand;doi chaang coffee company;Other;175;500;7.75;8;10;83.83;3.412210871
+Haiti;marmelade;myriam kaplan-pasternak;Other;85;600;6.92;7.17;8.67;72.33;3.778465992
+Brazil;monte carmelo;gabriel barbara;Mundo Novo;200;600;7.42;7.5;10;81.83;4.395243343
+Brazil;south of minas;gabriel barbara;Other;198;600;7.5;7.5;10;82.58;3.898973638
+Brazil;campos altos - cerrado;bourbon specialty coffees;Other;300;600;7.25;7;10;73.5;4.441496617
+Burundi;mumirwa;simon mahinda;Other;300;600;7.08;7.33;10;80.33;3.527956744
+Uganda;southern;mannya coffee project;Other;6;600;7.75;7.58;7.67;80.5;4.046132676
+Uganda;western;nitubaasa ltd;Other;20;600;7.83;7.67;7.75;80.58;3.564939552
+Brazil;monte carmelo;bourbon specialty coffees;Other;94;600;7.33;7.08;10;80.58;3.552741955
+Malawi;southern- zomba;afca;Caturra;100;600;7.5;7.17;10;80.67;3.975473083
+Panama;boquete;essencecoffee;Caturra;100;600;7.25;7.33;10;80.75;3.778052747
+Uganda;western;kawacom uganda ltd;Other;1;600;7.33;7.75;7.75;80.92;4.141634994
+Kenya;kiambu;lydiah mwangi;SL28;150;600;7.17;7.5;10;80.92;4.364742885
+Uganda;eastern;kyagalanyi ltd;SL14;320;600;7.33;7.33;10;81;4.375383499
+Brazil;cerrado;bourbon specialty coffees;Mundo Novo;300;600;7.67;7.75;10;81;3.890237971
+Ethiopia;sidamo;kerchanshe;Other;300;600;7.42;7.33;10;81.08;4.394682402
+Brazil;alta paulista (sao paulo);gregorio sebba;Mundo Novo;500;600;7.58;7.25;9.33;81.08;4.473264797
+Brazil;south of minas;nucoffee;Mundo Novo;17;600;7.42;7.42;10;81.17;3.942600589
+Malawi;southern- zomba;afca;Caturra;300;600;7.58;7.08;10;81.17;3.782875239
+Malawi;mzuzu;afca;Gesha;31;600;7.75;7.33;10;81.33;3.512632813
+Malawi;mzuzu;afca;Gesha;12;600;7.58;7.42;10;81.42;3.935174755
+Indonesia;ijen;specialty coffee association of indonesia;Other;10;600;7.75;7.33;10;81.5;4.273292593
+Uganda;eastern;kasozi coffee farmers association;Other;1;600;8;7.58;7.58;81.5;3.524069275
+Malawi;mzuzu;afca;Gesha;15;600;7.67;7.5;10;81.5;3.8159954
+Uganda;south western;ankole coffee producers coop;Other;320;600;8;7.5;7.58;81.5;4.415734069
+Thailand;nan;doi tung development project;Other;1;600;7.33;7.5;10;81.58;4.159657533
+Malawi;mzuzu;afca;Gesha;10;600;7.42;7.58;10;81.58;3.557337108
+India;chikmagalur karnataka;nishant gurjer;Other;320;600;7.67;7.5;7.75;81.58;3.900056295
+Uganda;iganga namadrope eastern;ugacof;Other;320;600;7.58;7.83;7.67;81.75;3.803730033
+Brazil;cerrado;nucoffee;Mundo Novo;58;600;7.33;7.5;10;81.83;4.24916733
+Malawi;kakoma;afca;Gesha;24;600;7.58;7.33;10;81.83;4.415772686
+Brazil;grama valley;nucoffee;Mundo Novo;8;600;7.42;7.5;10;81.92;3.794353964
+Brazil;south of minas;nucoffee;Mundo Novo;50;600;7.42;7.5;10;82;3.645667505
+Brazil;cerrado;nucoffee;Catuai;75;600;7.42;7.5;10;82;3.646796022
+Brazil;south of minas;nucoffee;Mundo Novo;53;600;7.58;7.5;10;82;4.015033712
+Malawi;mzuzu;afca;Gesha;16;600;7.5;7.58;10;82;4.319559183
+Brazil;south of minas;ipanema coffees;Bourbon;230;600;7.5;7.5;10;82;3.600283522
+Brazil;south of minas;ipanema coffees;Bourbon;320;600;7.42;7.5;10;82.08;3.731133125
+Brazil;cerrado;bourbon specialty coffees;Mundo Novo;300;600;7.58;7.25;10;82.17;3.863081439
+Brazil;south of minas;ipanema coffees;Bourbon;320;600;7.42;7.42;10;82.17;3.787007105
+Brazil;nan;nucoffee;Arusha;84;600;7.67;7;10;82.25;3.670849465
+Malawi;mzuzu;afca;Gesha;10;600;7.58;7.42;10;82.25;4.041993808
+Brazil;grama valley;nucoffee;Mundo Novo;16;600;7.58;7.5;10;82.33;4.247552593
+Brazil;south of minas;nucoffee;Mundo Novo;44;600;7.58;7.58;10;82.33;4.081035924
+Malawi;mzuzu;afca;Gesha;10;600;7.33;7.58;10;82.33;4.098138543
+China;xishuangbanna prefecture;yunnan coffee exchange;Catimor;3;600;7.5;7.5;10;82.33;4.405082222
+Brazil;south of minas;ipanema coffees;Bourbon;320;600;7.5;7.5;10;82.33;3.59967111
+Brazil;south of minas;nucoffee;Catuai;39;600;7.58;7.5;10;82.42;4.026124713
+Brazil;south of minas;nucoffee;Arusha;51;600;7.75;7.42;10;82.42;3.879313209
+Uganda;western;ugacof;Other;320;600;7.67;7.83;7.75;82.42;3.911725151
+China;yunnan;yunnan coffee exchange;Catimor;3;600;7.67;7.5;10;82.42;3.613509024
+Brazil;campos altos - cerrado;bourbon specialty coffees;Other;300;600;7.42;7.5;10;82.42;3.988321793
+India;chikmagalur karnataka;nishant gurjer;Other;320;600;7.67;7.83;7.92;82.5;4.292438642
+India;chikmagalur karnataka india;nishant gurjer;Other;320;600;7.67;7.67;7.92;82.5;3.497644664
+Brazil;south of minas;nucoffee;Mundo Novo;42;600;7.58;7.75;10;82.58;3.741267791
+Uganda;eastern;kawacom uganda ltd;SL14;1;600;7.83;7.58;10;82.58;3.519004387
+Brazil;campos altos - cerrado;bourbon specialty coffees;Other;300;600;7.42;7.33;10;82.58;4.177130354
+Uganda;mt elgon;kawacom uganda ltd;SL14;1;600;7.67;7.67;10;82.67;4.342773788
+Brazil;monte carmelo;bourbon specialty coffees;Catuai;300;600;7.33;7.58;10;82.67;4.360047536
+Brazil;south of minas;ipanema coffees;Bourbon;320;600;7.5;7.67;10;82.67;4.152434423
+Malawi;mzuzu;afca;Gesha;29;600;7.75;7.5;10;82.75;3.665717064
+Brazil;south of minas;ipanema coffees;Yellow Bourbon;320;600;7.5;7.5;10;82.75;4.189353525
+China;yunnan;yunnan coffee exchange;Catimor;3;600;7.67;7.33;10;82.75;4.070681956
+China;menglian;yunnan coffee exchange;Catimor;3;600;7.5;7.67;10;82.75;4.109179844
+United States;berastagi;joshua marsceau;Other;300;600;7.42;7.5;10;82.83;4.264104458
+Brazil;south of minas;ipanema coffees;Yellow Bourbon;320;600;7.67;7.5;10;82.83;4.062230821
+Rwanda;gicumbi;samuel muhirwa;Bourbon;150;600;7.83;7.83;9.33;82.83;3.484421935
+Uganda;eastern;kawacom uganda ltd;SL14;1;600;8;7.58;10;82.92;4.307825312
+Uganda;west nile;nyapea coffee farmers association;SL14;1;600;7.75;7.5;10;82.92;4.29648611
+Thailand;nan;doi tung development project;Other;1;600;7.33;7.5;10;83;4.45152101
+Uganda;kapchorwa;star cafe ltd;SL14;300;600;7.83;7.5;10;83;3.904037568
+Uganda;central;ugacof;Other;320;600;8;7.75;7.75;83;3.825160942
+Uganda;luwero central region;katuka development trust ltd;Other;1;600;8.33;7.75;7.58;83;4.068190723
+Uganda;kasese, mt. rwenzori;ucfa;Bourbon;310;600;7.67;7.42;10;83;3.902985134
+Uganda;kasese, mt. rwenzori;ucfa;Bourbon;325;600;7.67;7.58;10;83;3.599697417
+Brazil;south of minas;ipanema coffees;Bourbon;320;600;7.5;7.67;10;83;4.018492996
+Brazil;south of minas;ipanema coffees;Bourbon;320;600;7.5;7.67;10;83;4.379847352
+Indonesia;dolok sanggul;specialty coffee association of indonesia;Other;10;600;7.67;7.58;10;83.08;3.807091298
+Brazil;south of minas;ipanema coffees;Yellow Bourbon;320;600;7.58;7.5;10;83.08;4.327695292
+Brazil;south of minas;nucoffee;Mundo Novo;25;600;7.75;7.5;10;83.17;3.720272644
+Brazil;south of minas;nucoffee;Other;90;600;7.58;7.5;10;83.17;3.683564618
+Brazil;south of minas;nucoffee;Mundo Novo;50;600;7.75;7.5;10;83.17;3.62290671
+Brazil;mogiana;nucoffee;Mundo Novo;100;600;7.92;7.58;10;83.17;4.309143968
+Uganda;eastern;kabum trading company;SL14;84;600;8;7.42;10;83.17;3.996067166
+China;yunnan;yunnan coffee exchange;Catimor;3;600;7.5;7.67;10;83.17;3.883997463
+China;dehong prefecture;yunnan coffee exchange;Catimor;3;600;7.67;7.67;10;83.17;3.470465655
+Brazil;grama valley;nucoffee;Yellow Bourbon;30;600;7.75;7.58;10;83.25;3.445682675
+Brazil;campos altos - cerrado;bourbon specialty coffees;Other;300;600;7.58;7.5;10;83.25;4.21147509
+Burundi;kayanza;steven kil;Bourbon;220;600;7.75;7.5;10;83.33;3.878042396
+United States;kona;kona pacific farmers cooperative;Other;12;600;7.5;7.67;10;83.42;3.522348539
+Brazil;vale da grama;bourbon specialty coffees;Yellow Bourbon;300;600;7.33;7.5;10;83.42;4.293748045
+Ethiopia;oromia;debesa agro industry plc;Other;320;600;7.67;7.58;10;83.5;4.030334887
+India;chikmagalur karnataka indua;nishant gurjer;Other;320;600;8;8;8;83.5;3.891538908
+Brazil;south of minas;nucoffee;Catuai;33;600;7.83;7.75;10;83.58;3.89907758
+Uganda;eastern;bulamburi coffee farmers association;SL14;100;600;7.67;7.75;10;83.58;3.934698433
+Ethiopia;yirgacheffe;essencecoffee;Other;250;600;7.75;7.67;10;83.58;4.127513308
+China;yunnan;yunnan coffee exchange;Catimor;3;600;7.67;7.58;10;83.58;4.249917136
+Indonesia;east java;ekai international company ltd.;Typica;10;600;8.17;7.58;10;83.67;3.469916665
+Brazil;south of minas;ipanema coffees;Bourbon;320;600;7.58;7.75;10;83.67;3.823395544
+Kenya;meru county;kennedy macharia;SL28;200;600;8.08;7.58;10;83.67;4.214939335
+Uganda;west nile;nile highland arabica coffee farmers;Bourbon;320;600;8;7.75;10;83.75;4.096637767
+Uganda;sheema south western;ankole coffee producers coop;Other;300;600;7.83;7.92;8;83.75;4.013133711
+China;yunnan;yunnan coffee exchange;Catimor;3;600;7.83;7.5;10;83.75;4.437942656
+Thailand;nan;doi tung development project;Other;1;600;7.5;7.58;10;83.83;3.527305995
+Ethiopia;oromia;yasmin cofffee plantation plc;Other;320;600;7.75;7.67;10;83.83;4.207183719
+Brazil;south of minas;ipanema coffees;Bourbon;320;600;7.58;7.75;10;83.92;3.41415548
+Thailand;nan;doi tung development project;Other;1;600;7.58;7.75;10;84;4.000364231
+Kenya;blend;ibero kenya limited;SL34;300;600;7.67;7.75;10;84;4.301027542
+Uganda;kasese;afca;Other;320;600;7.92;7.67;10;84;4.100457912
+Ethiopia;sidamo;lusso lab;Other;50;600;7.75;7.58;10;84;3.544324709
+Ethiopia;sidamo;kyagalanyi coffee ltd;Gesha;320;600;7.83;7.75;10;84;3.420981497
+Ethiopia;ethiopia, sidamo;steven kil;Other;100;600;7.92;8;8.67;84.08;3.597304716
+Uganda;mt. rwenzori;afca;Other;320;600;7.83;7.83;10;84.17;3.623755658
+Uganda;kasese;afca;Other;1;600;8.17;7.67;10;84.25;4.318179126
+China;yunnan;yunnan coffee exchange;Catimor;3;600;7.83;7.75;10;84.25;3.918992946
+Brazil;vale da grama;nucoffee;Yellow Bourbon;75;600;8.17;7.75;10;84.33;4.217710921
+Brazil;south of minas;nucoffee;Other;80;600;8;7.5;10;84.33;4.091748924
+Kenya;nyeri;dream together;SL28;235;600;7.92;8;10;84.5;4.337396252
+China;yunnan;yunnan coffee exchange;Catimor;3;600;7.75;7.83;10;84.5;3.933069681
+Brazil;vale da grama;nucoffee;Bourbon;37;600;8;7.75;10;84.58;3.522963804
+Brazil;mountains of minas gerais;nucoffee;Catuai;35;600;8.5;7.75;10;84.58;3.987730763
+Kenya;nyeri;daniel magu;Peaberry;100;600;7.83;7.75;10;84.58;4.194169495
+Kenya;nyeri;dream together;SL28;235;600;7.75;8;10;84.67;3.853590881
+Uganda;mbale;afca;Other;320;600;7.92;7.92;10;84.67;3.424084009
+Kenya;nyeri;lydiah mwangi;SL34;150;600;7.92;7.92;10;84.75;3.458906794
+Uganda;eastern;kawacom uganda ltd;SL14;1;600;7.75;7.67;10;84.83;4.368024304
+Brazil;south of minas;nucoffee;Bourbon;4;600;8;7.75;10;84.92;4.453361447
+Brazil;south of minas;nucoffee;Catuai;10;600;8;8;10;84.92;3.476789136
+Kenya;central kenya;rashid moledina & co. (msa) ltd.;SL34;38;600;7.75;8.08;10;85;4.326059385
+Brazil;grama valley;nucoffee;Mundo Novo;31;600;8;7.83;10;85;4.488539683
+Kenya;nan;simon mahinda;Other;170;600;8.17;7.75;10;85;3.918050693
+Uganda;eastern uganda;kyagalanyi coffee ltd;SL14;200;600;8.17;7.75;10;85;3.684435475
+Ethiopia;aricha;steven kil;Other;100;600;8.42;8;10;85.08;3.438479372
+Indonesia;lintong;nomura trading co., ltd.;Sumatra Lintong;54;600;7.75;8;10;85.17;4.416400976
+Kenya;central kenya;rashid moledina & co. (msa) ltd.;SL34;20;600;7.83;8.08;10;85.33;3.444451138
+Kenya;central kenya;ibero kenya limited;SL34;300;600;8;8.08;10;85.33;3.954185022
+China;yunnan;yunnan coffee exchange;Catimor;3;600;8;7.83;10;85.33;3.870167186
+Brazil;south of minas;nucoffee;Bourbon;5;600;8;7.67;10;85.42;3.682656979
+Uganda;kapchorwa;great lakes coffee uganda;SL14;150;600;8.08;7.67;10;85.42;3.865953108
+Ethiopia;oromia;assefa belay coffee producer;Other;320;600;7.75;8.17;10;85.42;4.425689995
+Uganda;bulambuli eastern region;kyagalanyi ltd;SL14;320;600;8.33;7.92;10;85.5;4.283625163
+Panama;boquete;essencecoffee;Caturra;100;600;8;7.83;10;85.5;4.436337718
+Kenya;kirinyaga;essencecoffee;SL28;16;600;7.92;8.08;10;85.5;4.017300205
+Ethiopia;oromia;assefa belay coffee producer;Other;320;600;7.83;7.92;10;85.5;3.62126101
+Papua New Guinea;eastern highlands province;colbran coffeelands, ltd.;Other;7;600;8.33;8.33;10;85.75;4.432399169
+Ethiopia;oromia;ibrahim hussien speciality coffee producer &export;Other;320;600;7.83;8.08;10;85.83;4.186197711
+Panama;boquete;gonzalo hernandez;Gesha;37;600;8;8.08;10;85.83;3.985274793
+Uganda;eastern;kawacom uganda ltd;SL14;1;600;8.17;8.08;10;85.92;4.194642043
+Uganda;sipi, mt elgon;afca;Other;1;600;8.25;8.08;10;86;4.247154046
+Uganda;eastern uganda;great lakes coffee uganda;Other;1;600;8.08;7.92;10;86;3.557718368
+Brazil;south of minas;nucoffee;Bourbon;7;600;8.33;8;10;86.08;3.449757497
+Kenya;nyeri;jungle estate;SL28;12;600;8.08;8;10;86.08;4.429701378
+Brazil;sul de minas - carmo de minas;jacques pereira carneiro;Yellow Bourbon;300;600;8.17;7.75;10;86.17;3.669802084
+Brazil;sul de minas - carmo de minas;jacques pereira carneiro;Yellow Bourbon;300;600;8.42;7.75;10;86.17;4.410150256
+Ethiopia;oromia;hider abamecha;Other;320;600;8;8;10;86.25;3.684142416
+Brazil;vale da grama;nucoffee;Bourbon;29;600;8.5;7.75;10;86.42;3.993241063
+Uganda;kapchorwa eastern;kabum trading company;SL14;100;600;8.42;8.17;10;86.83;3.675602096
+Brazil;south of minas;nucoffee;Bourbon;3;600;8.5;8;10;86.92;4.065866034
+Ethiopia;sidamo;ji-ae ahn;Other;100;600;8.42;8.17;10;87.08;4.294475151
+Ethiopia;gedio;essencecoffee;Ethiopian Yirgacheffe;250;600;8.17;8.17;10;87.25;3.753276404
+China;yunnan;yunnan coffee exchange;Catimor;3;600;8.42;8.17;10;87.25;4.288059969
+Ethiopia;oromia;mohammed lalo;Other;300;600;8.17;8.5;10;88.08;4.211114763
+Ethiopia;snnp/kaffa zone,gimbowereda;diamond enterprise plc;Other;50;600;8.08;8.5;10;88.25;4.146741007
+Ethiopia;guji-hambela;metad plc;Other;300;600;8.25;8.5;10;88.83;3.60675891
+Ethiopia;oromia;yidnekachew dabessa;Other;320;600;8.17;8.42;10;89;3.525594356
+Ethiopia;guji-hambela;metad plc;Other;300;600;8.75;8.58;10;89.92;4.017175675
+Ethiopia;guji-hambela;metad plc;Other;300;600;8.67;8.75;10;90.58;4.412798796
+Honduras;comayagua;bismarck castro;Caturra;275;650;7.42;7.92;10;84;3.808086527
+Honduras;comayagua;bismarck castro;Caturra;275;650;7.92;7.67;10;84.33;4.063383651
+Honduras;comayagua;bismarck castro;Caturra;274;650;7.58;7.33;10;81.92;3.87270883
+Costa Rica;nan;amanda powers;Other;275;650;7.58;7.75;10;84;4.224812051
+Nicaragua;jalapa;exportadora atlantic, s.a.;Caturra;550;700;7.25;6.25;6;63.08;3.716134945
+Mexico;sierra alta mixe y zapoteca;kurt kappeli;Typica;280;700;7.08;7.08;8;72.92;3.982377676
+Guatemala;oriente;juan luis alvarado romero;Bourbon;250;700;6.5;7.5;8.67;74.33;3.6087211
+Guatemala;oriente;juan luis alvarado romero;Bourbon;250;700;7.5;7.5;8.67;76.33;3.670420759
+Guatemala;oriente;juan luis alvarado romero;Other;275;700;7.33;7.17;9.33;77.33;3.977630504
+Guatemala;oriente;juan luis alvarado romero;Bourbon;250;700;7;7.17;10;78;3.862987943
+Guatemala;oriente;juan luis alvarado romero;Other;275;700;7.42;7.33;9.33;78;3.985720714
+Guatemala;oriente;juan luis alvarado romero;Other;275;700;7.17;7;10;78.33;3.593682877
+Guatemala;oriente;juan luis alvarado romero;Other;250;700;7.33;7.58;10;78.58;3.512044088
+Nicaragua;nueva segovia;exportadora atlantic, s.a.;Other;275;700;7.08;6.83;10;78.58;4.317953534
+Guatemala;oriente;juan luis alvarado romero;Bourbon;250;700;7.33;7.25;10;78.75;4.171362948
+Peru;san ignacio;sustainable harvest coffee;Typica;280;700;7.67;7.25;9.33;79;4.202927366
+Guatemala;oriente;juan luis alvarado romero;Other;250;700;7.33;7.42;10;79;3.491879297
+Guatemala;san marcos;juan luis alvarado romero;Bourbon;50;700;7.58;7.42;8.67;79.08;4.052670894
+Guatemala;nuevo oriente;juan luis alvarado romero;Catuai;275;700;7.25;7.25;10;79.17;3.560211493
+Guatemala;occidente;juan luis alvarado romero;Bourbon;250;700;7.08;7.42;10;79.17;4.267810358
+Guatemala;santa rosa;juan luis alvarado romero;Bourbon;50;700;7.33;7.42;9.33;79.17;4.448141037
+Honduras;ocotepeque;janny marlith torres;Catuai;15;700;7.58;6.92;10;79.17;4.063367842
+Guatemala;oriente;juan luis alvarado romero;Bourbon;250;700;7.08;7.58;9.33;79.42;4.374889329
+Guatemala;oriente;juan luis alvarado romero;Other;275;700;7.25;7;10;79.42;4.373243609
+Nicaragua;jinotega;cooperativa el gorrion r.l;Caturra;275;700;6.92;7.42;10;79.5;3.704777678
+Guatemala;oriente;juan luis alvarado romero;Bourbon;250;700;7.5;7.08;10;79.67;4.083642342
+Guatemala;oriente;juan luis alvarado romero;Bourbon;25;700;7.42;7.58;9.33;79.67;4.152757579
+Guatemala;antigua;lusso lab;Bourbon;275;700;7.58;7.33;9.33;79.75;3.907812693
+Guatemala;oriente;juan luis alvarado romero;Bourbon;25;700;7.5;7.58;9.33;79.75;3.823146708
+Guatemala;san marcos;juan luis alvarado romero;Bourbon;50;700;7.33;7.33;10;79.83;3.690843613
+Nicaragua;jinotega;comercial internacional exportadora, s.a.;Caturra;275;700;7.33;7.08;10;80;4.234617923
+Guatemala;oriente;juan luis alvarado romero;Bourbon;250;700;7.33;7.17;10;80.17;4.411323783
+Honduras;comayagua;bismarck castro;Caturra;275;700;7.25;7;10;80.25;4.350173683
+Mexico;sierra madre occidental;cafe de don balbino s.c. de r.l. de c.v.;Caturra;60;700;7.25;7.33;10;80.25;4.256610791
+Guatemala;oriente;juan luis alvarado romero;Bourbon;250;700;7.33;7.5;10;80.33;3.894099906
+Honduras;marcala;cadexsa;Other;275;700;7.25;7.42;10;80.42;4.423026401
+Guatemala;oriente;juan luis alvarado romero;Other;275;700;7.5;7.5;10;80.5;3.470449835
+Guatemala;santa rosa;juan luis alvarado romero;Caturra;275;700;7.33;7.17;10;80.5;4.495653571
+Honduras;ocotepeque;janny marlith torres;Catuai;15;700;7.58;7.17;10;80.5;3.694281413
+Honduras;occidental;beneficio santa rosa;Caturra;275;700;7.5;7.42;10;80.58;4.480637878
+Guatemala;huehuetenango;juan luis alvarado romero;Bourbon;275;700;7.17;7.5;10;80.58;3.994080435
+Nicaragua;nueva segovia;exportadora atlantic, s.a.;Other;275;700;7.08;7.25;10;80.58;4.497256553
+Guatemala;san lucas toliman, solola;juan luis alvarado romero;Bourbon;250;700;7.67;7.5;10;80.67;3.898919215
+Guatemala;huehuetenango;juan luis alvarado romero;Caturra;275;700;7.5;7.42;10;80.75;4.274785038
+Nicaragua;jinotega;comercial internacional exportadora, s.a.;Other;275;700;7.25;7.25;10;80.75;3.974393304
+Guatemala;jalapa;juan luis alvarado romero;Pacas;250;700;7.58;7.5;10;80.92;3.96414542
+Guatemala;oriente;juan luis alvarado romero;Bourbon;25;700;7.67;7.58;9.33;80.92;4.395707578
+Mexico;veracruz;grupo santab s.a de c.v.;Bourbon;240;700;7.5;7.42;10;80.92;3.741937909
+Guatemala;oriente;juan luis alvarado romero;Bourbon;250;700;7.5;7.25;10;81;3.872045613
+Guatemala;norte;juan luis alvarado romero;Bourbon;120;700;7.42;7.5;10;81;3.518915049
+Nicaragua;jinotega;rolando lacayo;Other;275;700;7.33;7.42;10;81.08;3.629065856
+Nicaragua;dipilto, nueva segovia;exportadora atlantic, s.a.;Other;275;700;7.33;7.17;10;81.17;4.447156043
+Guatemala;sacatepequez, guatemala;juan luis alvarado romero;Caturra;250;700;7.5;7.58;10;81.25;3.939984795
+Nicaragua;jinotega;comercial internacional exportadora, s.a.;Catuai;275;700;7.08;7.17;10;81.25;3.484931164
+Mexico;veracruz;angel oscar medina rodriguez;Other;220;700;7.67;7.42;10;81.33;3.705121586
+Guatemala;oriente;juan luis alvarado romero;Bourbon;250;700;7.42;7.42;10;81.42;3.732958151
+Guatemala;san lucas toliman, solola;juan luis alvarado romero;Bourbon;250;700;7.42;7.42;10;81.42;3.67639888
+Guatemala;san marcos;juan luis alvarado romero;Catuai;450;700;7.42;7.58;10;81.42;4.313503518
+Mexico;veracruz;cafes tomari sa de cv;Mundo Novo;200;700;7.58;7.33;10;81.42;3.429791606
+Guatemala;oriente;juan luis alvarado romero;Other;250;700;7.5;7.58;10;81.5;3.478173899
+Guatemala;santa rosa;juan luis alvarado romero;Bourbon;50;700;7.67;7.42;10;81.5;3.761504706
+Nicaragua;jalapa;exportadora atlantic, s.a.;Caturra;550;700;7.5;7.33;10;81.5;3.971015656
+Honduras;comayagua;elsy reyes;Caturra;275;700;7.5;7.42;10;81.5;4.239549463
+Guatemala;santa rosa;juan luis alvarado romero;Bourbon;50;700;7.5;7.25;10;81.5;3.452388197
+Guatemala;oriente;juan luis alvarado romero;Bourbon;250;700;7.42;7.58;10;81.58;4.248692263
+Costa Rica;turrialba;ceca, s.a.;Caturra;250;700;7.58;7.17;10;81.58;3.91788513
+Guatemala;huehuetenango;juan luis alvarado romero;Bourbon;25;700;7.42;7.5;10;81.58;3.473217269
+Honduras;western region;mdh;Catimor;275;700;7.5;7.42;10;81.58;3.742818529
+Guatemala;jalapa;juan luis alvarado romero;Bourbon;275;700;7.5;7.33;10;81.67;4.313825892
+Costa Rica;tarrazu;ceca, s.a.;Caturra;275;700;7.5;7.17;10;81.67;4.429455223
+Honduras;marcala;cadexsa;Catuai;275;700;7.58;7.33;10;81.67;3.651896134
+Guatemala;san marcos;juan luis alvarado romero;Bourbon;50;700;7.42;7.42;10;81.67;3.514580752
+Guatemala;santa rosa;juan luis alvarado romero;Bourbon;80;700;7.42;7.67;10;81.67;3.560202376
+Guatemala;san marcos;juan luis alvarado romero;Bourbon;50;700;7.5;7.42;10;81.75;4.371723757
+Guatemala;oriente;juan luis alvarado romero;Bourbon;250;700;7.83;7.33;9.33;81.83;3.749002296
+Guatemala;norte;juan luis alvarado romero;Bourbon;130;700;7.58;7.42;10;81.83;4.08160859
+Guatemala;oriente;juan luis alvarado romero;Bourbon;25;700;7.42;7.5;10;81.83;4.40574984
+Guatemala;oriente;juan luis alvarado romero;Bourbon;25;700;7.58;7.58;10;81.92;3.513407482
+Guatemala;santa rosa;juan luis alvarado romero;Bourbon;50;700;7.5;7.42;10;81.92;4.32483158
+Honduras;occidental;beneficio santa rosa;Caturra;275;700;7.33;7.5;10;82;3.91494641
+Costa Rica;turrialba;ceca, s.a.;Caturra;150;700;7.58;7.33;10;82.08;3.719938661
+Guatemala;atitlan;essencecoffee;Bourbon;250;700;7.42;7.5;10;82.17;3.626107529
+Honduras;comayagua;bismarck castro;Caturra;200;700;7.5;7.42;10;82.17;3.871995865
+Guatemala;nuevo oriente;juan luis alvarado romero;Pacas;275;700;7.67;7.67;10;82.25;4.394455731
+Guatemala;jalapa;juan luis alvarado romero;Bourbon;275;700;7.67;7.67;10;82.33;3.542437876
+Guatemala;oriente;juan luis alvarado romero;Bourbon;250;700;7.5;7.5;10;82.33;4.358623412
+Guatemala;jalapa;juan luis alvarado romero;Pacas;250;700;7.58;7.58;10;82.33;3.994313073
+Costa Rica;tarrazu;ceca, s.a.;Caturra;100;700;7.75;7.25;10;82.33;3.469989792
+Costa Rica;tarrazu;rodrigo soto;Catuai;130;700;7.75;7.5;10;82.33;3.706843729
+Guatemala;huehuetenango;juan luis alvarado romero;Bourbon;275;700;7.5;7.83;10;82.33;3.600979854
+Honduras;comayagua;bismarck castro;Caturra;275;700;7.5;7.5;10;82.33;4.121146645
+Guatemala;san marcos;juan luis alvarado romero;Bourbon;50;700;7.67;7.67;10;82.42;4.443290673
+Guatemala;san marcos;juan luis alvarado romero;Bourbon;50;700;7.58;7.75;10;82.42;3.859493242
+Guatemala;el progreso;juan luis alvarado romero;Bourbon;20;700;7.58;7.67;10;82.42;3.620620897
+Guatemala;oriente;juan luis alvarado romero;Bourbon;250;700;7.83;7.67;10;82.5;3.927123938
+Guatemala;oriente;juan luis alvarado romero;Bourbon;250;700;7.83;7.33;10;82.5;4.191064485
+Guatemala;oriente;juan luis alvarado romero;Bourbon;50;700;7.5;7.5;10;82.5;3.663995237
+Honduras;comayagua;elsy reyes;Caturra;275;700;7.58;7.5;10;82.5;3.818550291
+Guatemala;oriente;juan luis alvarado romero;Bourbon;25;700;7.5;7.75;10;82.58;4.183294399
+Guatemala;antigua;juan luis alvarado romero;Caturra;275;700;7.67;7.67;10;82.67;4.394165887
+Guatemala;jalapa;juan luis alvarado romero;Pacas;250;700;7.75;7.75;10;82.75;3.560633442
+Costa Rica;tarrazu;ceca, s.a.;Caturra;250;700;7.58;7.67;10;82.75;4.307936845
+Guatemala;santa rosa;juan luis alvarado romero;Caturra;275;700;7.58;7.58;10;82.75;3.872080497
+Guatemala;san marcos;juan luis alvarado romero;Bourbon;50;700;7.5;7.67;10;82.75;4.307847799
+Guatemala;santa rosa;juan luis alvarado romero;Bourbon;50;700;7.5;7.58;10;82.75;3.86938973
+Guatemala;oriente;juan luis alvarado romero;Bourbon;25;700;7.42;7.67;10;82.75;3.602626311
+Guatemala;el progreso;juan luis alvarado romero;Bourbon;25;700;7.58;7.58;10;82.75;4.191695498
+Honduras;comayagua;bismarck castro;Caturra;275;700;7.58;7.58;10;82.75;3.711523248
+Guatemala;antigua;juan luis alvarado romero;Bourbon;250;700;7.67;7.67;10;82.83;4.418256619
+Guatemala;oriente;juan luis alvarado romero;Bourbon;80;700;7.58;7.67;10;82.83;3.943547421
+Guatemala;san marcos;juan luis alvarado romero;Bourbon;50;700;7.5;7.67;10;82.83;3.891925177
+Guatemala;huehuetenango;juan luis alvarado romero;Bourbon;250;700;7.83;7.92;10;82.92;4.173024234
+Guatemala;antigua;juan luis alvarado romero;Bourbon;250;700;7.75;7.58;10;82.92;3.595374021
+Guatemala;antigua;juan luis alvarado romero;Caturra;26;700;7.67;7.5;10;82.92;3.742854137
+Guatemala;antigua;juan luis alvarado romero;Bourbon;26;700;7.67;7.83;10;83;4.494174907
+Guatemala;nuevo oriente;juan luis alvarado romero;Catuai;275;700;7.67;7.92;10;83;3.873961114
+Guatemala;el tumbador, san marcos;juan luis alvarado romero;Catuai;200;700;7.75;7.75;10;83;3.488679206
+Guatemala;antigua;juan luis alvarado romero;Bourbon;250;700;7.83;7.67;10;83;4.242473393
+Guatemala;oriente;juan luis alvarado romero;Bourbon;250;700;7.67;7.67;10;83.17;3.801739723
+Guatemala;san marcos;juan luis alvarado romero;Catuai;200;700;7.33;8.17;10;83.17;3.721468174
+Guatemala;antigua;juan luis alvarado romero;Bourbon;150;700;7.5;7.83;10;83.17;3.682961152
+Guatemala;oriente;juan luis alvarado romero;Bourbon;100;700;7.92;7.75;10;83.17;3.819030612
+Honduras;marcala;cadexsa;Catuai;275;700;7.67;7.67;10;83.17;3.525121479
+Guatemala;oriente;juan luis alvarado romero;Bourbon;275;700;7.58;7.67;10;83.17;3.593756507
+Guatemala;antigua;juan luis alvarado romero;Caturra;26;700;7.5;7.67;10;83.25;4.191890875
+Costa Rica;tarrazu;rodrigo soto;Other;275;700;7.83;7.67;10;83.25;3.922563172
+Guatemala;oriente;juan luis alvarado romero;Bourbon;250;700;7.83;7.67;10;83.33;4.182043362
+Guatemala;oriente;juan luis alvarado romero;Bourbon;250;700;7.75;7.83;10;83.42;4.121317751
+Guatemala;oriente;juan luis alvarado romero;Bourbon;250;700;7.67;7.42;10;83.42;3.469194844
+Guatemala;antigua;juan luis alvarado romero;Caturra;250;700;7.67;7.83;10;83.42;3.563388425
+Costa Rica;tarrazu;ceca, s.a.;Caturra;275;700;7.58;7.92;10;83.42;4.050652769
+Guatemala;san marcos;juan luis alvarado romero;Bourbon;50;700;7.67;7.58;10;83.42;4.351515689
+Guatemala;atitlan;juan luis alvarado romero;Caturra;275;700;7.83;8;10;83.5;3.828322962
+Costa Rica;tarrazu;ceca, s.a.;Caturra;245;700;7.92;7.67;10;83.5;3.768082906
+Guatemala;oriente;juan luis alvarado romero;Bourbon;250;700;7.67;7.83;10;83.5;4.116762584
+Guatemala;huehuetenango;juan luis alvarado romero;Caturra;275;700;7.75;7.83;10;83.58;4.148644393
+Guatemala;sacatepequez, guatemala;juan luis alvarado romero;Caturra;250;700;7.67;8;10;83.67;4.039993101
+Guatemala;oriente;juan luis alvarado romero;Bourbon;250;700;7.67;7.67;10;83.67;3.757854639
+Guatemala;oriente;juan luis alvarado romero;Bourbon;250;700;7.83;7.67;10;83.67;4.082119784
+Guatemala;huehuetenango;juan luis alvarado romero;Bourbon;275;700;8;8;10;83.67;3.733937119
+Honduras;comayagua;bismarck castro;Caturra;285;700;7.5;7.67;10;83.67;3.898888827
+Nicaragua;jinotega;comercial internacional exportadora, s.a.;Caturra;275;700;7.67;7.67;10;83.67;4.168652487
+Guatemala;oriente;juan luis alvarado romero;Bourbon;250;700;7.5;7.83;10;83.83;3.528324332
+Guatemala;oriente;juan luis alvarado romero;Bourbon;250;700;7.58;8;10;83.83;3.62924058
+Costa Rica;tarrazu;ceca, s.a.;Caturra;275;700;7.67;7.67;10;83.83;3.725688359
+Guatemala;antigua;juan luis alvarado romero;Bourbon;100;700;7.75;7.75;10;83.83;3.444945895
+Mexico;veracruz;cafes tomari sa de cv;Mundo Novo;200;700;7.83;7.92;10;83.92;3.611327185
+Guatemala;oriente;juan luis alvarado romero;Bourbon;250;700;7.92;7.92;10;84;4.25820269
+Guatemala;oriente;juan luis alvarado romero;Bourbon;250;700;7.75;7.83;10;84;3.825095606
+Guatemala;huehuetenango;juan luis alvarado romero;Caturra;275;700;7.67;7.92;10;84;3.518352822
+Guatemala;oriente;juan luis alvarado romero;Bourbon;50;700;8;7.58;10;84.08;4.080449583
+Guatemala;oriente;juan luis alvarado romero;Bourbon;250;700;7.92;7.67;10;84.17;4.254153671
+Costa Rica;tarrazu;ceca, s.a.;Caturra;320;700;7.67;7.75;10;84.17;3.912608924
+Costa Rica;tarrazu;wayner jimenez;Caturra;150;700;7.92;7.67;10;84.17;4.051061553
+Guatemala;huehuetenango;juan luis alvarado romero;Caturra;275;700;7.75;8;10;84.17;3.831299089
+Guatemala;solola;juan luis alvarado romero;Caturra;377;700;7.75;7.92;10;84.17;3.408937489
+Guatemala;norte;juan luis alvarado romero;Bourbon;130;700;7.58;7.83;10;84.17;4.310407297
+Guatemala;san marcos;juan luis alvarado romero;Bourbon;50;700;7.75;7.83;10;84.17;3.888530486
+Guatemala;oriente;juan luis alvarado romero;Bourbon;250;700;7.83;7.92;10;84.25;4.010393485
+Guatemala;huehuetenango;juan luis alvarado romero;Caturra;275;700;7.75;8.08;10;84.25;3.448856072
+Guatemala;antigua;juan luis alvarado romero;Caturra;230;700;7.75;7.92;10;84.25;4.36317198
+Honduras;central region;bismarck castro;Catuai;275;700;7.58;7.75;10;84.33;3.823361473
+Guatemala;el tumbador, san marcos;juan luis alvarado romero;Bourbon;250;700;7.67;8;10;84.5;3.593375893
+Guatemala;oriente;juan luis alvarado romero;Bourbon;250;700;8.17;7.83;10;84.5;4.02738187
+Guatemala;jalapa;juan luis alvarado romero;Pacas;250;700;7.75;7.92;10;84.58;4.47608009
+Guatemala;oriente;juan luis alvarado romero;Bourbon;250;700;8;7.58;10;84.58;3.655348111
+Costa Rica;costa rica;essencecoffee;Other;20;700;7.67;7.75;10;84.67;4.298695429
+Costa Rica;tarrazu;rodrigo soto;Catuai;15;700;8.08;7.83;10;84.67;3.826392773
+Guatemala;oriente;juan luis alvarado romero;Bourbon;250;700;8;8;10;85.25;4.276420993
+Guatemala;huehuetenango;juan luis alvarado romero;Bourbon;250;700;8;8.33;10;85.5;3.946972531
+Guatemala;nuevo oriente;juan luis alvarado romero;Bourbon;80;700;7.92;8.08;10;85.92;3.806870635
+Honduras;comayagua;bismarck castro;Caturra;275;700;8.17;8;10;86.67;3.816895846
+Peru;nan;hugo valdivia;Other;100;700;8.42;8.5;10;88.75;4.163180378
+Colombia;cundinamarca;exportadora de cafe condor s.a;Caturra;250;700;7.83;7.42;10;79.5;3.570298791
+Colombia;guayata;racafe & cia s.c.a;Caturra;43;700;7.67;5.25;10;81;4.360273518
+Colombia;huila;racafe & cia s.c.a;Caturra;230;700;7.5;7.17;10;81.33;3.704498011
+Colombia;huila;exportadora de cafe condor s.a;Caturra;250;700;7.5;7.17;10;81.42;3.512850933
+Colombia;la plata;racafe & cia s.c.a;Other;165;700;7.75;7.67;10;81.67;3.87225715
+Colombia;huila;exportadora de cafe condor s.a;Caturra;250;700;7.33;7.33;10;81.75;3.551077183
+Colombia;huila;racafe & cia s.c.a;Caturra;50;700;7.5;7.42;10;81.83;4.148156265
+Colombia;huila;racafe & cia s.c.a;Caturra;250;700;7.33;7.5;10;82;4.342021831
+Colombia;huila;exportadora de cafe condor s.a;Caturra;250;700;7.33;7.58;10;82.17;4.214327769
+Colombia;huila;exportadora de cafe condor s.a;Caturra;250;700;7.5;7.33;10;82.25;3.791382858
+Colombia;huila;racafe & cia s.c.a;Caturra;100;700;7.67;7.33;10;82.25;4.135009944
+Colombia;huila;carcafe ltda ci;Caturra;250;700;7.83;7.25;10;82.33;3.583322085
+Colombia;huila;exportadora de cafe condor s.a;Caturra;250;700;7.5;7.5;10;82.33;4.493063043
+Colombia;huila;exportadora de cafe condor s.a;Caturra;250;700;7.33;7.58;10;82.42;4.243474362
+Colombia;huila;carcafe ltda ci;Caturra;250;700;7.67;7.42;10;82.42;4.363020216
+Colombia;huila;racafe & cia s.c.a;Caturra;250;700;7.67;7.5;10;82.42;3.453517621
+Colombia;guayata;racafe & cia s.c.a;Caturra;43;700;5.08;7.75;10;82.42;3.765528342
+Colombia;huila;racafe & cia s.c.a;Caturra;275;700;7.67;7.5;10;82.5;3.611760783
+Colombia;huila;exportadora de cafe condor s.a;Caturra;250;700;7.5;7.42;10;82.5;3.750008206
+Colombia;huila;exportadora de cafe condor s.a;Caturra;250;700;7.75;7.25;10;82.58;3.796088323
+Colombia;huila;racafe & cia s.c.a;Caturra;275;700;7.33;7.42;10;82.58;4.219980596
+Colombia;huila;exportadora de cafe condor s.a;Caturra;250;700;7.75;7.42;10;82.58;3.964265838
+Colombia;huila;exportadora de cafe condor s.a;Caturra;250;700;7.58;7.58;10;82.58;3.990810052
+Colombia;huila;exportadora de cafe condor s.a;Caturra;250;700;7.75;7.25;10;82.67;3.471966111
+Colombia;south huila;nan;Caturra;250;700;7.5;7.67;10;82.75;3.612067183
+Colombia;huila;racafe & cia s.c.a;Caturra;100;700;7.67;7.58;10;82.75;4.485374729
+Colombia;huila;racafe & cia s.c.a;Caturra;250;700;7.5;7.75;10;82.75;3.704298819
+Colombia;huila;racafe & cia s.c.a;Caturra;125;700;7.83;7.42;10;82.83;4.076462335
+Colombia;huila;racafe & cia s.c.a;Caturra;250;700;7.58;7.33;10;82.92;3.478567167
+Colombia;huila;exportadora de cafe condor s.a;Caturra;250;700;7.75;7.5;10;82.92;3.686670289
+Colombia;antioquia;olam agro colombia;Other;250;700;7.83;7.42;10;82.92;3.958586277
+Colombia;guayata;racafe & cia s.c.a;Caturra;129;700;7.58;7.33;10;82.92;3.495958304
+Colombia;huila;racafe & cia s.c.a;Caturra;275;700;7.5;7.58;10;83;4.091030905
+Colombia;nan;exportadora de cafe condor s.a;Arusha;250;700;7.67;7.5;10;83;4.44077734
+Colombia;huila;exportadora de cafe condor s.a;Caturra;250;700;7.75;7.67;10;83;3.742923416
+Colombia;huila;exportadora de cafe condor s.a;Caturra;250;700;7.67;7.58;10;83;4.496347426
+Colombia;huila;racafe & cia s.c.a;Caturra;120;700;7.75;7.5;10;83;3.604374502
+Colombia;huila;exportadora de cafe condor s.a;Caturra;250;700;7.83;7.33;10;83;4.218148449
+Colombia;pitalito;carcafe ltda ci;Caturra;250;700;7.33;7.42;10;83;4.08020707
+Colombia;pitalito;carcafe ltda ci;Caturra;250;700;7.58;7.67;10;83;3.857314364
+Colombia;huila;carcafe ltda ci;Other;25;700;7.67;7.67;10;83;3.414364116
+Colombia;cundinamarca;carcafe ltda ci;Caturra;275;700;7.58;7.67;10;83.08;3.907445515
+Colombia;huila;racafe & cia s.c.a;Caturra;275;700;7.75;7.42;10;83.08;4.484547575
+Colombia;huila;racafe & cia s.c.a;Caturra;275;700;7.67;7.5;10;83.17;4.128333048
+Colombia;huila;exportadora de cafe condor s.a;Caturra;250;700;7.58;7.58;10;83.17;3.839500796
+Colombia;huila;racafe & cia s.c.a;Caturra;232;700;7.58;7.67;10;83.17;3.492242513
+Colombia;huila;exportadora de cafe condor s.a;Caturra;250;700;7.67;7.42;10;83.25;3.769196237
+Colombia;la plata;racafe & cia s.c.a;Caturra;175;700;7.67;7.5;10;83.25;3.721260389
+Colombia;huila;exportadora de cafe condor s.a;Caturra;275;700;7.83;7.33;10;83.25;4.09409148
+Colombia;huila;exportadora de cafe condor s.a;Caturra;250;700;7.5;7.58;10;83.33;3.472117739
+Colombia;pitalito;carcafe ltda ci;Caturra;250;700;7.67;7.67;10;83.33;3.434897584
+Colombia;santander;exportadora de cafe condor s.a;Caturra;275;700;7.67;7.83;10;83.33;3.900762001
+Colombia;huila;exportadora de cafe condor s.a;Caturra;275;700;7.75;7.58;10;83.33;3.708270579
+Colombia;guayata;racafe & cia s.c.a;Caturra;130;700;7.67;7.42;10;83.33;3.586381746
+Colombia;huila;racafe & cia s.c.a;Caturra;275;700;7.83;7.58;10;83.33;3.757144397
+Colombia;cundinamarca;exportadora de cafe condor s.a;Caturra;250;700;7.5;7.5;10;83.42;4.114925601
+Colombia;huila;carcafe ltda ci;Caturra;275;700;7.58;7.67;10;83.42;3.513886422
+Colombia;huila;racafe & cia s.c.a;Caturra;175;700;7.67;7.67;10;83.5;4.401082849
+Colombia;huila;exportadora de cafe condor s.a;Caturra;250;700;7.58;7.67;10;83.5;3.732565147
+Colombia;huila;exportadora de cafe condor s.a;Caturra;250;700;7.58;7.75;10;83.5;3.883152489
+Colombia;huila;exportadora de cafe condor s.a;Caturra;275;700;8;7.58;10;83.5;3.57328673
+Colombia;huila;racafe & cia s.c.a;Caturra;180;700;7.58;7.58;10;83.5;3.408874616
+Colombia;cundinamarca;carcafe ltda ci;Caturra;50;700;7.75;7.75;10;83.5;3.964145375
+Colombia;pitalito;carcafe ltda ci;Caturra;250;700;7.75;7.5;10;83.5;4.19370132
+Colombia;huila;racafe & cia s.c.a;Caturra;275;700;7.67;7.67;10;83.58;4.12275662
+Colombia;cundinamarca;carcafe ltda ci;Caturra;250;700;7.67;7.58;10;83.58;3.770195039
+Colombia;huila;racafe & cia s.c.a;Caturra;275;700;7.67;7.67;10;83.58;4.468247199
+Colombia;huila;racafe & cia s.c.a;Caturra;275;700;7.75;7.58;10;83.58;4.497890869
+Colombia;huila;exportadora de cafe condor s.a;Caturra;250;700;7.75;7.83;10;83.67;4.487405903
+Colombia;huila supremo;exportadora de cafe condor s.a;Caturra;250;700;7.83;7.58;10;83.67;4.045224345
+Colombia;huila;racafe & cia s.c.a;Caturra;250;700;7.67;7.67;10;83.67;3.841227722
+Colombia;huila;exportadora de cafe condor s.a;Caturra;250;700;7.58;7.67;10;83.75;3.971238108
+Colombia;huila;exportadora de cafe condor s.a;Caturra;275;700;7.75;7.58;10;83.75;3.763221123
+Colombia;huila;racafe & cia s.c.a;Caturra;100;700;7.67;7.92;10;83.75;3.616697939
+Colombia;huila;olam agro colombia;Other;250;700;7.67;7.42;10;83.75;3.545381415
+Colombia;huila;racafe & cia s.c.a;Other;275;700;7.92;7.67;10;83.75;3.498972927
+Colombia;huila;carcafe ltda ci;Caturra;275;700;7.83;7.58;10;83.75;3.687748873
+Colombia;huila;exportadora de cafe condor s.a;Caturra;250;700;7.67;7.83;10;83.83;3.783174229
+Colombia;huila;racafe & cia s.c.a;Caturra;275;700;7.83;7.75;10;83.83;4.37177721
+Colombia;huila;racafe & cia s.c.a;Caturra;275;700;7.75;7.83;10;83.92;4.182284046
+Colombia;huila;carcafe ltda ci;Other;250;700;7.75;7.75;10;83.92;4.044138052
+Colombia;la plata;almacafe;Other;226;700;7.75;7.83;10;83.92;3.723054861
+Colombia;cauca;exportadora de cafe condor s.a;Caturra;270;700;7.67;7.75;10;84;3.704662958
+Colombia;huila;racafe & cia s.c.a;Caturra;138;700;7.67;7.5;10;84;3.556369844
+Colombia;huila;racafe & cia s.c.a;Caturra;200;700;7.92;7.75;10;84.08;4.352765179
+Colombia;huila;exportadora de cafe condor s.a;Caturra;250;700;7.75;7.75;10;84.17;4.001481428
+Colombia;huila;racafe & cia s.c.a;Caturra;275;700;8;7.67;10;84.17;3.760602804
+Colombia;huila;racafe & cia s.c.a;Caturra;250;700;7.83;7.67;10;84.17;4.338202952
+Colombia;cauca;exportadora de cafe condor s.a;Caturra;250;700;7.58;7.83;10;84.25;3.704902423
+Colombia;huila;racafe & cia s.c.a;Caturra;275;700;7.67;7.75;10;84.25;4.149424924
+Colombia;huila;racafe & cia s.c.a;Caturra;248;700;7.83;7.58;10;84.25;4.060581041
+Colombia;huila;carcafe ltda ci;Caturra;250;700;7.42;7.75;10;84.25;3.503626044
+Colombia;huila;exportadora de cafe condor s.a;Caturra;275;700;7.75;7.83;10;84.33;4.164343586
+Colombia;huila;carcafe ltda ci;Caturra;250;700;7.75;7.67;10;84.33;4.075906961
+Colombia;huila;racafe & cia s.c.a;Caturra;275;700;7.92;7.92;10;84.42;4.210326895
+Colombia;huila;exportadora de cafe condor s.a;Caturra;250;700;7.67;8;10;84.58;3.477450415
+Colombia;huila;exportadora de cafe condor s.a;Caturra;250;700;7.42;7.75;10;84.58;3.507625118
+Colombia;huila;racafe & cia s.c.a;Caturra;75;700;7.75;7.75;10;84.58;3.782963206
+Colombia;santander;racafe & cia s.c.a;Other;250;700;7.83;7.92;10;84.58;4.301325718
+Colombia;huila;racafe & cia s.c.a;Caturra;125;700;7.92;8;10;84.58;4.271372056
+Colombia;huila;racafe & cia s.c.a;Caturra;50;700;7.75;7.75;10;84.92;4.106645085
+Colombia;huila;racafe & cia s.c.a;Caturra;252;700;7.92;7.83;10;84.92;4.016617201
+Colombia;huila;racafe & cia s.c.a;Caturra;243;700;7.92;7.83;10;84.92;4.487195733
+Colombia;huila;racafe & cia s.c.a;Caturra;135;700;8;7.92;10;85;3.599406413
+Colombia;cundinamarca;carcafe ltda ci;Caturra;250;700;7.83;7.75;10;85.08;3.463010667
+Colombia;pasto;carcafe ltda ci;Caturra;250;700;8.17;8.08;10;85.08;3.670534524
+Colombia;santander;exportadora de cafe condor s.a;Caturra;275;700;8.17;8;10;85.25;4.259877924
+Colombia;huila;exportadora de cafe condor s.a;Caturra;275;700;8;8.17;10;85.92;3.943830897
+Mexico;tapachula;tomas edelmann blass;Bourbon;50;800;7.42;7.17;10;81.5;4.484825773
+Mexico;tuxtla gutierrez;victor hugo melchor cordova;Typica;100;800;8;7.83;10;84.33;4.311048316
+United States;kona;eileen koyanagi;Hawaiian Kona;12;1000;7.5;6.92;10;79.92;3.458067754
+Costa Rica;tres rios;cafetalera internacional cafinter, s.a.;Caturra;275;3500;7.75;7.25;10;82.08;4.364024531
+Kenya;nan;taylor winch (coffee) ltd.;SL28;11;6600;7.75;8.08;10;84.58;3.716444904
+Uganda;eastern;bugisu cooperative union;SL14;20;1218;7.58;7.75;10;83.42;3.782439237
+Guatemala;antigua;juan luis alvarado romero;Caturra;250;1500;7.67;7.75;10;83.17;4.095889746
+Uganda;sipi, mt elgon;kawacom uganda ltd;SL14;150;9000;7.5;7.42;10;83.25;4.312968254
+Kenya;central kenya;taylor winch (coffee) ltd.;SL28;150;9000;7.67;7.75;10;84;3.403188958
+Kenya;kiambu;kennedy macharia;SL34;200;12000;7;7.17;10;79.83;3.829894311
+Uganda;eastern uganda;ecom japan limited;SL14;200;12000;7.92;7.75;10;84.5;4.275646501
+Kenya;kenya;itochu corporation;SL28;300;18000;7.58;7.75;10;84.17;4.464579922
+Honduras;san marcos;mayra yessenia torres;Caturra;275;18975;7.42;7.33;10;81;4.460370614
+Costa Rica;tres rios;cafetalera internacional cafinter, s.a.;Caturra;275;18975;7.5;7.17;10;81.17;4.233614391
+Costa Rica;tres rios;cafetalera internacional cafinter, s.a.;Caturra;275;18975;7.67;7.25;10;81.83;4.392762101
+Ethiopia;kefa zone, gimbo distict, at a place called woka araba, south west ethiopia.;seid damtew coffee planataion;Other;320;19200;7.75;8;10;85.08;3.569368316
+Ethiopia;addis ababa;seid damtew coffee planataion;Caturra;320;19200;7.83;8.17;10;85.75;4.463030435
